@@ -1,0 +1,25 @@
+.hero.landing {
+  .hero-body {
+    overflow: hidden;
+    position: relative;
+
+    h1.title {
+      color: $primary;
+      font-weight: bold;
+    }
+
+    h2.subtitle {
+      em {
+        font-style: normal;
+        font-weight: bold;
+        color: $primary;
+      }
+    }
+
+    hr {
+      border: 1px dashed #B4C5FA;
+      background: none;
+      opacity: .5;
+    }
+  }
+}

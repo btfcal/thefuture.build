@@ -1,0 +1,9 @@
+baseURL = "https://thefuture.build/"
+languageCode = "en-us"
+title = "Build the Future @ UC Berkeley"
+
+disableHugoGeneratorInject = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+home = ["HTML","RSS"]

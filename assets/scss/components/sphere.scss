@@ -1,0 +1,53 @@
+@mixin shuffle($name, $x, $y, $time) {
+  animation: #{$name} $time linear infinite;
+  @keyframes #{$name} {
+    0% {
+      transform: translateX(0) translateY(0);
+    }
+    50% {
+      transform: translateX($x) translateY($y);
+    }
+    100% {
+      transform: translateX(0) translateY(0);
+    }
+  }
+}
+
+img.sphere {
+  position: absolute;
+  z-index: 0;
+  user-select: none;
+
+  &.sphere-0 {
+    @include shuffle(shuffle-0, 3vh, -3vw, 15s);
+    width: 220px;
+    
+    @media (max-width: 768px) {
+        width: 95px;
+        top: 2vh;
+        left: 1vw;
+    }
+  }
+
+  &.sphere-1 {
+    @include shuffle(shuffle-1, -1vh, -1vw, 20s);
+    width: 150px;
+    right: 0;
+    top: 20px;
+
+    @media (max-width: 768px) {
+        width: 70px;
+    }
+  }
+  
+  &.sphere-2 {
+    @include shuffle(shuffle-2, -4vh, -5vw, 18s);
+    width: 400px;
+    left: 50%;
+    bottom: -25%;
+
+    @media (max-width: 768px) {
+        display: none;
+    }
+  }
+}

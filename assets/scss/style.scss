@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+
+$blue: #2B50DC;
+$blue-invert: #FFFFFF;
+$pink: #fcc2c1;
+
+// Fonts setup
+@import "./fonts/ambit.scss";
+@import "./fonts/circular.scss";
+
+$title-family: "Ambit", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$body-family:  "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+$primary: $blue;
+$primary-invert: $blue-invert;
+
+$secondary: #B4C5FA;
+$secondary-light: #F0F4FE;
+$secondary-gray: #989898;
+
+@import "../../node_modules/bulma/bulma";
+
+@import "./components/landing.scss";
+@import "./components/sphere.scss";
+@import "./components/title.scss";
+@import "./components/button.scss";
+@import "./components/footer.scss";
+@import "./components/sponsors.scss";
+
+// custom plugins
+@import "../../node_modules/animate.css/animate";

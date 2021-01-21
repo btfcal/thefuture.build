@@ -1,0 +1,10 @@
+.sponsors {
+    
+    .logo {
+        vertical-align: middle;
+
+        &:not(:first-of-type) {
+            margin-left: 2em;
+        }
+    }
+}
