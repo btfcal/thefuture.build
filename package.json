@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Website for UC Berkeley's Build the Future DeCal.",
   "repository": "git@github.com:itsmingjie/btf-www.git",
-  "author": "Mingjie Jiang <jiang@mingjie.dev>",
+  "author": "Mingjie Jiang <jiang@mingjie.dev> (https://mingjie.dev)",
   "private": true,
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.1.3",

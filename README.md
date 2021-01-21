@@ -1,5 +1,8 @@
-# Build the Future Website
-Website for Build the Future: UC Berkeley’s student-run entrepreneurship hub.
+# Build the Future
+
+<a href="https://thefuture.build"><img align="right" width="100" src="static/images/icon.png" title="BTF Logo"></a>
+
+Website for [Build the Future](https://thefuture.build): UC Berkeley’s student-run entrepreneurship hub.
 
 ## Development
 
@@ -15,7 +18,7 @@ Install all npm dependencies
 yarn
 ```
 
-Run development server 
+Run development server
 
 ```bash
 yarn dev
@@ -32,3 +35,5 @@ yarn dev
 </div>
 
 [Build The Future](https://thefuture.build) is UC Berkeley’s student-run entrepreneurship hub. Designed to teach and inspire students through a collaboration-driven environment to build startups, we aim to be the golden standard of entrepreneurship resource and learning.
+
+&copy; 2021 Build the Future
