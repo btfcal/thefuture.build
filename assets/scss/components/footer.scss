@@ -1,7 +1,43 @@
+$footer-background-color: #000000;
+$footer-color: #ffffff;
+$footer-padding: 3rem 1.5rem 3rem;
+
 .footer {
-  padding: 3rem 1.5rem 3rem;
-  
-  .copyright {
-    font-family: $title-family;
+  a {
+    color: #ffffff!important;
+    text-decoration: solid underline;
+
+    &:hover {
+      text-decoration: wavy underline;
+    }
+  }
+
+  .footer-logo {
+    width: 80px;
+  }
+
+  .social-title {
+    font-size: 1.5rem;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+    font-weight: bold;
+    position: absolute;
+    bottom:5px;
+    user-select: none;
+  }
+
+  .social-rest {
+    position: absolute;
+    margin-left: 3rem;
+    bottom: 0;
+
+    .social {
+      text-decoration: none;
+      margin-right: 10px;
+
+      &:hover {
+        color: $primary;
+      }
+    }
   }
 }

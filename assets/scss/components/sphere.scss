@@ -17,6 +17,7 @@ img.sphere {
   position: absolute;
   z-index: 0;
   user-select: none;
+  -webkit-user-drag: none;
 
   &.sphere-0 {
     @include shuffle(shuffle-0, 3vh, -3vw, 15s);

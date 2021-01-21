@@ -1,0 +1,25 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="/images/icon.png" class="navbar-icon">
+    </a>
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <a class="navbar-item navbar-item-{{ .Name | lower }}{{ if eq $currentPage.RelPermalink .URL }} is-active{{ end }}" href="{{.URL}}">
+        {{ .Pre }}
+        <span data-name="{{.Name}}">{{ .Name }}</span>
+      </a>
+      {{end}}
+    </div>
+    <div class="navbar-end">
+    </div>
+  </div>
+</nav>

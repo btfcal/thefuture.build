@@ -7,3 +7,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [outputs]
 home = ["HTML","RSS"]
+
+
+[menu]
+  # Main Menu
+
+  [[menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 0
