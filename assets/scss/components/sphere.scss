@@ -22,11 +22,11 @@ img.sphere {
   &.sphere-0 {
     @include shuffle(shuffle-0, 3vh, -3vw, 15s);
     width: 220px;
-    
+
     @media (max-width: 768px) {
-        width: 95px;
-        top: 2vh;
-        left: 1vw;
+      width: 95px;
+      top: 2vh;
+      left: 1vw;
     }
   }
 
@@ -37,10 +37,10 @@ img.sphere {
     top: 20px;
 
     @media (max-width: 768px) {
-        width: 70px;
+      width: 70px;
     }
   }
-  
+
   &.sphere-2 {
     @include shuffle(shuffle-2, -4vh, -5vw, 18s);
     width: 400px;
@@ -48,7 +48,7 @@ img.sphere {
     bottom: -25%;
 
     @media (max-width: 768px) {
-        display: none;
+      display: none;
     }
   }
 }

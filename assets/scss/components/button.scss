@@ -11,7 +11,7 @@
   }
 
   &::after {
-    content: "";
+    content: '';
     position: absolute;
     z-index: -1;
     width: 100%;
@@ -31,10 +31,10 @@
   }
 
   &:active {
-      transform: scale(0.95, 0.95)
+    transform: scale(0.95, 0.95);
   }
 
   &.is-light {
-    color: $primary!important;
+    color: $primary !important;
   }
 }

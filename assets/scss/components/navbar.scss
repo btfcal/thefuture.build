@@ -1,26 +1,26 @@
 .navbar {
-    .navbar-icon {
-        transform: scale(1.5);
+  .navbar-icon {
+    transform: scale(1.5);
+  }
+
+  .navbar-item {
+    &:hover {
+      background: transparent;
     }
 
-    .navbar-item {
-        &:hover {
-            background: transparent;
-        }
-
-        &.is-active {
-            font-weight: bold;
-        }
-
-        /* @350D https://stackoverflow.com/a/20249560 */
-        > span::before {
-            display: block;
-            content: attr(title);
-            font-weight: bold;
-            height: 1px;
-            color: transparent;
-            overflow: hidden;
-            visibility: hidden;
-        }
+    &.is-active {
+      font-weight: bold;
     }
+
+    /* @350D https://stackoverflow.com/a/20249560 */
+    > span::before {
+      display: block;
+      content: attr(title);
+      font-weight: bold;
+      height: 1px;
+      color: transparent;
+      overflow: hidden;
+      visibility: hidden;
+    }
+  }
 }
