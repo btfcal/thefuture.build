@@ -17,4 +17,18 @@ div.content {
     font-size: 1.2rem;
     line-height: 1.75;
   }
+  
+  .image {
+    margin-bottom: 10px;
+
+    img {
+      margin-bottom: 10px;
+    }
+
+    .image-caption {
+      color: #9797a0;
+      text-align: center;
+      font-size: 0.8rem;
+    }
+  }
 }
