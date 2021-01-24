@@ -16,28 +16,53 @@ $footer-padding: 3rem 1.5rem 3rem;
     width: 80px;
   }
 
-  .social-title {
-    font-size: 1.5rem;
-    writing-mode: tb-rl;
-    transform: rotate(-180deg);
-    font-weight: bold;
-    position: absolute;
-    bottom: 5px;
-    user-select: none;
+  .social-wrapper {
+    text-align: center;
+    margin-top: 1rem;
+
+    @media only screen and (min-width: $tablet) {
+      float: left;
+
+      .social-title {
+        font-size: 1.5rem!important;
+        writing-mode: tb-rl;
+        transform: rotate(-180deg);
+      }
+
+      .social-rest {
+        margin-left: 3rem;
+        transform: translateY(-2rem);
+      }
+    }
+
+    .social-title {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+      user-select: none;
+    }
+
+    .social-rest {
+      .social {
+        text-decoration: none;
+
+        &:not(:last-child) {
+          margin-right: 10px;
+        }
+
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
   }
 
-  .social-rest {
-    position: absolute;
-    margin-left: 3rem;
-    bottom: 0;
+  .copyright-wrapper {
+    text-align: center;
 
-    .social {
-      text-decoration: none;
-      margin-right: 10px;
-
-      &:hover {
-        color: $primary;
-      }
+    @media only screen and (min-width: $tablet) {
+      text-align: right;
+      float: right;
     }
   }
 }

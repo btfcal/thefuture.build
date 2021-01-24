@@ -1,28 +1,25 @@
 <footer class="footer is-dark">
     <div class="container">
-        <div class="columns">
-            <div class="column is-one-quarter  is-offset-2-desktop">
-                <h3 class="social-title">Check us out.</h3>
-                {{ if .Site.Data.social }}
-                <div class="social-rest">
-                    {{ range .Site.Data.social }}
-                    <a class="social" href="{{ .link }}" target="_blank" rel="noopener" title="{{ .name }}"><img src="{{ .image | relURL }}" alt="{{ .name }}" /></a>
-                    {{ end }}
-                </div>
+        <div class="copyright-wrapper">
+            <img class="footer-logo" src="/images/icon.png">
+            <p><small>&copy; 2021 Build the Future</small></p>
+            <p><small>University of California, Berkeley.</small></p>
+            <p>
+                <small>
+                    <a href="mailto:btfdecal@gmail.com">btfdecal@gmail.com</a>
+                </small>
+            </p>
+        </div>
+        <div class="social-wrapper">
+            <h3 class="social-title">Check us out.</h3>
+            {{ if .Site.Data.social }}
+            <div class="social-rest">
+                {{ range .Site.Data.social }}
+                <a class="social" href="{{ .link }}" target="_blank" rel="noopener" title="{{ .name }}"><img src="{{ .image | relURL }}" alt="{{ .name }}" /></a>
                 {{ end }}
             </div>
-            <div class="column is-one-quarter">
-            </div>
-            <div class="column is-one-quarter has-text-right">
-                <img class="footer-logo" src="/images/icon.png">
-                <p><small>&copy; 2021 Build the Future</small></p>
-                <p><small>University of California, Berkeley.</small></p>
-                <p>
-                    <small>
-                        <a href="mailto:btfdecal@gmail.com">btfdecal@gmail.com</a>
-                    </small>
-                </p>
-            </div>
+            {{ end }}
         </div>
+    </div>
     </div>
 </footer>
