@@ -37,6 +37,12 @@ body > footer {
   margin-top: auto;
 }
 
+em {
+  font-style: normal;
+  font-weight: bold;
+  color: $primary;
+}
+
 @import './components/landing.scss';
 @import './components/sphere.scss';
 @import './components/title.scss';
@@ -44,6 +50,7 @@ body > footer {
 @import './components/footer.scss';
 @import './components/sponsors.scss';
 @import './components/navbar.scss';
+@import './components/content.scss';
 
 @import '../../node_modules/bulma/bulma';
 

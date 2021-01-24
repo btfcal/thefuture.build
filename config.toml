@@ -1,6 +1,6 @@
 baseURL = "https://thefuture.build/"
 languageCode = "en-us"
-title = "Build the Future @ UC Berkeley"
+title = "Build the Future"
 
 disableHugoGeneratorInject = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -15,4 +15,9 @@ home = ["HTML","RSS"]
   [[menu.main]]
       name = "Home"
       url = "/"
-      weight = 0
+      weight = 1
+
+  [[menu.main]]
+      name = "DeCal"
+      url = "/decal/"
+      weight = 2
