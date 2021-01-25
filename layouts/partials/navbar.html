@@ -1,15 +1,15 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar{{ if .Page.Params.dark }} is-dark{{ end }}" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="/">
+    <a class="navbar-item navbar-icon-item" href="/">
       <img src="/images/icon.png" class="navbar-icon">
     </a>
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="siteNav">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
   </div>
-  <div id="navbarBasicExample" class="navbar-menu">
+  <div id="siteNav" class="navbar-menu">
     <div class="navbar-start">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main.ByWeight }}

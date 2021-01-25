@@ -1,0 +1,40 @@
+{{ define "header_css" }}
+<style>
+    body {
+        background-color: black;
+    }
+</style>
+{{ end }}
+{{ define "main" }}
+<section class="hero is-medium is-dark">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-1">
+                Community
+            </h1>
+            <h2 class="subtitle is-5">
+                From successful entrepreneurs to VCs to the brightest UC Berkeley students, the Build The Future community
+                goes beyond a network of people but is one that pushes each other to do more and build a better version of yourself.
+            </h2>
+            <h2 class="subtitle is-5">
+                <strong><em>Community is coming soon!</em></strong>
+            </h2>
+            <!-- <a href="https://fa20.thefuture.build" class="button is-alt is-pulled-right is-wider" target="_blank">Join Now</a> -->
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="speakers columns is-multiline">
+            {{ range .Site.Data.speakers }}
+            <div class="speaker column is-one-quarter is-flex">
+                <div>
+                    <img class="headshot" src="{{ .image }}">
+                    <p><strong>{{ .name }}</strong>, {{ .company }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{end}}

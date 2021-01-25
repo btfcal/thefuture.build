@@ -1,4 +1,6 @@
 div.content {
+  margin-bottom: 3rem;
+
   @media only screen and (min-width: $tablet) {
     max-width: 75%;
   }

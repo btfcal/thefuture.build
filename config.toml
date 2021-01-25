@@ -21,3 +21,8 @@ home = ["HTML","RSS"]
       name = "DeCal"
       url = "/decal/"
       weight = 2
+
+  [[menu.main]]
+      name = "Community"
+      url = "/community/"
+      weight = 3

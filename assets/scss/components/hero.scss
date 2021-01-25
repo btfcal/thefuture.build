@@ -1,0 +1,33 @@
+.hero {
+  &.landing {
+    .hero-body {
+      position: relative;
+      overflow: hidden;
+
+      h1.title {
+        color: $primary;
+        font-weight: bold;
+
+        @media only screen and (min-width: $tablet) {
+          font-size: 4.5rem;
+        }
+      }
+
+      hr {
+        border: 1px dashed #b4c5fa;
+        background: none;
+        opacity: 0.5;
+      }
+    }
+  }
+
+  &.is-dark {
+    h1.title {
+      color: $pink;
+    }
+
+    h2.subtitle {
+      line-height: 1.75;
+    }
+  }
+}

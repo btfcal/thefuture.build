@@ -25,6 +25,8 @@ $secondary: #b4c5fa;
 $secondary-light: #f0f4fe;
 $secondary-gray: #989898;
 
+$dark: #000000;
+
 /* Sticky Footer Reset */
 html,
 body {
@@ -43,7 +45,7 @@ em {
   color: $primary;
 }
 
-@import './components/landing.scss';
+@import './components/hero.scss';
 @import './components/sphere.scss';
 @import './components/title.scss';
 @import './components/button.scss';
@@ -51,6 +53,8 @@ em {
 @import './components/sponsors.scss';
 @import './components/navbar.scss';
 @import './components/content.scss';
+
+@import './pages/community.scss';
 
 @import '../../node_modules/bulma/bulma';
 

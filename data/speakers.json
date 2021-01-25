@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kim Malek",
+    "company": "Salt & Straw",
+    "image": "/images/speakers/kim.png"
+  },
+  {
+    "name": "Nick Molnar",
+    "company": "Afterpay",
+    "image": "/images/speakers/nick.png"
+  },
+  {
+    "name": "Sidra Qasim",
+    "company": "Atoms",
+    "image": "/images/speakers/sidra.png"
+  },
+  {
+    "name": "Eli Luberoff",
+    "company": "Desmos",
+    "image": "/images/speakers/eli.png"
+  }
+]

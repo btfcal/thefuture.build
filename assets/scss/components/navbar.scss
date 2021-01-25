@@ -3,13 +3,22 @@
     transform: scale(1.5);
   }
 
-  .navbar-item {
+  .navbar-item:not(.navbar-icon-item) {
+    transition: all 0.2s ease;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-underline-position: under;
+
     &:hover {
       background: transparent;
+      text-decoration: underline;
+      text-underline-position: under;
     }
 
     &.is-active {
       font-weight: bold;
+      text-decoration: underline;
+      text-underline-position: under;
     }
 
     /* @350D https://stackoverflow.com/a/20249560 */
