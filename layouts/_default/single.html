@@ -1,4 +1,24 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-{{ end }}
+<section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-1">
+                {{ safeHTML .Params.htmlTitle }}
+            </h1>
+            <h2 class="subtitle is-4">
+                {{ .Params.description }}
+            </h2>
+            {{ if .Params.link }}
+            <a href="{{ .Params.link }}" class="button is-primary">{{ .Params.linkText }}</a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="content">
+            {{.Content}}
+        </div>
+    </div>
+</section>
+{{end}}

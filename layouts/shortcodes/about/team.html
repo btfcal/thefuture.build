@@ -1,0 +1,16 @@
+<div class="columns is-multiline">
+    {{ range (sort .Site.Data.team "class" "asc") }}
+    <div class="column team is-one-quarter">
+        <div class="mask">
+            <img class="image" src="{{ .image }}">
+            <div class="socials">
+                {{ if .email }}<a href="mailto:{{ .email }}" target="_blank" rel="noopener"><img src="/vectors/social/email.svg" /></a>{{ end }}
+                {{ if .twitter }}<a href="{{ .twitter }}" target="_blank" rel="noopener"><img src="/vectors/social/twitter.svg" /></a>{{ end }}
+                {{ if .linkedin }}<a href="{{ .linkedin }}" target="_blank" rel="noopener"><img src="/vectors/social/linkedin.svg" /></a>{{ end }}
+            </div>
+        </div>
+        <p class="mb-0"><strong>{{ .name }} '{{ .class }}</strong></p>
+        <p class="data">{{ .major }}</p>
+    </div>
+    {{ end }}
+</div>

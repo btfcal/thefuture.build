@@ -1,7 +1,9 @@
 ---
 title: "DeCal"
-layout: decal
-type: list
+htmlTitle: "Build the Future <em>DeCal</em>"
+description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020)."
+link: https://fa20.thefuture.build
+linkText: Fall 2020 Course Website »
 ---
 
 # Why take our DeCal?

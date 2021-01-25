@@ -4,13 +4,8 @@
       position: relative;
       overflow: hidden;
 
-      h1.title {
-        color: $primary;
-        font-weight: bold;
-
-        @media only screen and (min-width: $tablet) {
-          font-size: 4.5rem;
-        }
+      img.landing-logo {
+        height: 13rem;
       }
 
       hr {
