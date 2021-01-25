@@ -9,7 +9,7 @@
                 {{ .Params.description }}
             </h2>
             {{ if .Params.link }}
-            <a href="{{ .Params.link }}" class="button is-primary">{{ .Params.linkText }}</a>
+            <a href="{{ .Params.link }}" class="button is-primary" {{ if strings.HasPrefix .Params.link "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Params.linkText }}</a>
             {{ end }}
         </div>
     </div>
