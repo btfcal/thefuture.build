@@ -8,7 +8,7 @@ linkText: Fall 2020 Course Website »
 
 # Why take our DeCal?
 
-Build The Future believes [link this to ‘Mission’ in the About Us page] in using a collaboration-driven approach in teaching students about entrepreneurship. Our course is not just a speaker series nor lecturing. We have created an intimate environment for students to learn from other students supplemented by our student facilitators’ and guest speakers’ experiences. The Build The Future DeCal is unlike any classroom experience at Cal.
+Build The Future [believes](/about#mission) in using a collaboration-driven approach in teaching students about entrepreneurship. Our course is not just a speaker series nor lecturing. We have created an intimate environment for students to learn from other students supplemented by our student facilitators’ and guest speakers’ experiences. The Build The Future DeCal is unlike any classroom experience at Cal.
 
 # Curriculum
 
