@@ -5,9 +5,16 @@ title = "Build the Future"
 disableHugoGeneratorInject = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+enableEmoji = true
+enableRobotsTXT = true
+canonifyURLs = true
+
 [outputs]
 home = ["HTML","RSS"]
 
+[params]
+description = "UC Berkeley’s student-run entrepreneurship hub."
+banner = "/images/banner.png"
 
 [menu]
   # Main Menu

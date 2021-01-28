@@ -1,0 +1,37 @@
+{{ $title := site.Title }}
+{{ if not .IsHome }}
+{{ $title = printf "%s – %s" .Title .Site.Title }}
+{{ end }}
+
+<title>{{ $title }}</title>
+<meta property="og:title" content="{{ $title }}" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta itemprop="name" content="{{ $title }}" />
+<meta name="application-name" content="{{ $title }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
+<meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
+<meta itemprop="description" content="{{ .Params.description | default .Site.Params.description }}" />
+<meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
+<meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+
+<base href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+<meta name="url" content="{{ .Permalink }}" />
+<meta name="twitter:url" content="{{ .Permalink }}" /> 
+<meta property="og:url" content="{{ .Permalink }}" />
+
+<meta name="robots" content="index,follow" /> 
+<meta name="googlebot" content="index,follow" />
+
+{{ with .Params.image }} 
+  <meta itemprop="image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | absURL }}" /> 
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+{{ else }}
+  <meta itemprop="image" content="{{ .Site.Params.banner | absURL }}" />
+  <meta property="og:image" content="{{ .Site.Params.banner | absURL }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.banner | absURL }}" />
+  <meta name="twitter:image:src" content="{{ .Site.Params.banner | absURL }}" /> 
+{{ end }}
