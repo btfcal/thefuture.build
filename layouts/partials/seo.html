@@ -1,6 +1,8 @@
 {{ $title := site.Title }}
 {{ if not .IsHome }}
 {{ $title = printf "%s – %s" .Title .Site.Title }}
+{{ else }}
+{{ $title = "Build the Future @ UC Berkeley" }}
 {{ end }}
 
 <title>{{ $title }}</title>
