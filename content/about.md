@@ -1,6 +1,6 @@
 ---
 title: "About"
-htmlTitle: "About <em>Build the Future</em>"
+htmlTitle: "BTF/<em>About</em>"
 description: "We are UC Berkeley’s student-run entrepreneurship hub."
 ---
 

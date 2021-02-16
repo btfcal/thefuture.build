@@ -1,4 +1,10 @@
 .hero {
+  &.is-small {
+    .hero-body {
+      padding: 4rem 4rem 1rem!important;
+    }
+  }
+
   &.landing {
     .hero-body {
       position: relative;
@@ -18,7 +24,11 @@
 
   &.is-dark {
     h1.title {
-      color: $pink;
+      color: $white;
+
+      em {
+        color: $pink;
+      }
     }
 
     h2.subtitle {

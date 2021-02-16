@@ -4,6 +4,18 @@
 
 Website for [Build the Future](https://thefuture.build): UC Berkeley’s student-run entrepreneurship hub.
 
+## Structured Content Creation
+
+Hugo utilizes archetypes to create structured content from templates.
+```
+# To create a new newsletter entry
+$ hugo new --kind newsletters newsletters/your-post-name
+
+# To create a new event
+$ hugo new --kind events events/your-event-name
+```
+The file that you need to configure is your last parameter (e.g. "/newsletters/your-post-name/index.md"). It will also be accessible at the same URL. Please follow the instructions in the default files to configure your post/event. 
+
 ## Development
 
 ### Dependencies

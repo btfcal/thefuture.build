@@ -1,0 +1,44 @@
+{{ define "main" }}
+<section class="hero is-medium">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-1">
+                {{ safeHTML .Params.htmlTitle }}
+            </h1>
+            <h2 class="subtitle is-4">
+                {{ safeHTML .Params.description }}
+            </h2>
+            {{ if .Params.link }}
+            <a href="{{ .Params.link }}" class="button is-primary" {{ if strings.HasPrefix .Params.link "http" }} target="_blank" rel="noopener" {{ end }}>{{ .Params.linkText }}</a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+<section class="section page-list">
+    <div class="container pb-md-12 pb-6">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-8">
+                {{ $paginator := .Paginator }}
+                {{ range (.Paginate .RegularPagesRecursive).Pages.ByWeight }}
+                <div class="newsletter-summary mb-4">{{ .Render "summary" }}</div>
+                {{ end }}
+                {{ if eq $paginator.TotalPages 0 }}
+                    <h1 class="subtitle">Oops! Nothing here yet. Check back later!</h1>
+                {{ end }}
+                <div class="paginator">
+                    {{ if $paginator.HasPrev }}
+                    <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous button float-left">
+                        « Newer
+                    </a>
+                    {{ end }}
+                    {{ if $paginator.HasNext }}
+                    <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next button float-right">
+                        Older »
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
