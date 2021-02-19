@@ -13,42 +13,22 @@
   }
 }
 
-img.sphere {
-  position: absolute;
-  z-index: 0;
-  user-select: none;
-  -webkit-user-drag: none;
-
-  &.sphere-0 {
-    @include shuffle(shuffle-0, 3vh, -3vw, 15s);
-    width: 220px;
-
-    @media (max-width: 768px) {
-      width: 95px;
-      top: 2vh;
-      left: 1vw;
-    }
+.sphere-container {
+  transition: all 2s cubic-bezier(0.4, 0, 0.2, 1);
+  opacity: 0;
+  z-index: -1;
+  
+  &.active {
+    opacity: 1;
   }
 
-  &.sphere-1 {
-    @include shuffle(shuffle-1, -1vh, -1vw, 20s);
-    width: 150px;
-    right: 0;
-    top: 20px;
+  img.sphere {
+    position: absolute;
+    user-select: none;
+    -webkit-user-drag: none;
 
     @media (max-width: 768px) {
-      width: 70px;
-    }
-  }
-
-  &.sphere-2 {
-    @include shuffle(shuffle-2, -4vh, -5vw, 18s);
-    width: 400px;
-    left: 50%;
-    bottom: -25%;
-
-    @media (max-width: 768px) {
-      display: none;
+      transform: scale(0.5);
     }
   }
 }

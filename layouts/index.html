@@ -1,10 +1,7 @@
 {{ define "main" }}
 <div class="home-page">
     <section class="hero is-medium landing">
-        <div class="hero-body">
-            <img class="sphere sphere-0" src="/vectors/sphere.svg" />
-            <img class="sphere sphere-1" src="/vectors/sphere.svg" />
-            <img class="sphere sphere-2" src="/vectors/sphere.svg" />
+        <div class="hero-body" id="hero-body">
             <div class="container">
                 <div>
                     <h2 class="title home-title">
@@ -17,4 +14,34 @@
         </div>
     </section>
 </div>
+<script>
+    // ballz
+    const timer = ms => new Promise(res => setTimeout(res, ms))
+
+    async function loadBalls() {
+
+        let size = Math.floor(Math.random() * 300) + 100;
+        let xPercent = Math.floor(Math.random() * 20);
+        let yPercent = Math.floor(Math.random() * 100);
+
+        for (var i = 0; i < 3; i++) {
+            const sphere = document.createElement("div");
+            sphere.setAttribute("class", "sphere-container");
+            sphere.innerHTML = `<img class="sphere" id="sphere-${i}" src="/vectors/sphere.svg" style="width: ${size}px; left: ${xPercent}%; top: ${yPercent}%;" />`
+
+            document.getElementById("hero-body").appendChild(sphere);
+            setTimeout(() => {
+                sphere.classList.add("active");
+            }, 400);
+
+            xPercent += 2 * size / window.innerWidth * 100;
+            yPercent = Math.floor(Math.random() * 100);
+            size = Math.floor(Math.random() * 300) + 100;
+
+            await timer(Math.floor(Math.random() * 400));
+        }
+    }
+
+    loadBalls();
+</script>
 {{end}}
