@@ -8,8 +8,8 @@ $blue-invert: #ffffff;
 $pink: #fcc2c1;
 
 // Fonts setup
-@import './fonts/ambit.scss';
-@import './fonts/circular.scss';
+@import 'fonts/ambit';
+@import 'fonts/circular';
 
 $title-family: 'Ambit', BlinkMacSystemFont, -apple-system, 'Segoe UI', 'Roboto',
   'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -45,21 +45,23 @@ em {
   color: $primary;
 }
 
-@import './components/hero.scss';
-@import './components/sphere.scss';
-@import './components/title.scss';
-@import './components/button.scss';
-@import './components/footer.scss';
-@import './components/sponsors.scss';
-@import './components/navbar.scss';
-@import './components/content.scss';
-@import './components/subscribe.scss';
-@import './components/expand.scss';
+/*! purgecss start ignore */
+@import 'components/hero';
+@import 'components/sphere';
+@import 'components/title';
+@import 'components/button';
+@import 'components/footer';
+@import 'components/sponsors';
+@import 'components/navbar';
+@import 'components/content';
+@import 'components/subscribe';
+@import 'components/expand';
 
-@import './pages/community.scss';
-@import './pages/about.scss';
-@import './pages/blogs.scss';
-@import './pages/home.scss';
+@import 'pages/community';
+@import 'pages/about';
+@import 'pages/blogs';
+@import 'pages/home';
+/*! purgecss end ignore */
 
 @import '../../node_modules/bulma/bulma';
 
