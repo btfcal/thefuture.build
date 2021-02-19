@@ -105,13 +105,13 @@ To accompany this, in the same nonchalant, whimsical voice, Dylan described "not
 
 > The Valley is being overrun by a pollution — the "upper middle class, good school people that don't have ideas" and scenesters, people who want to "play startup"
 
-This pollution is fucking with people and it comes from three sources:
+This pollution is screwing with people and it comes from three sources:
 
 1. Your friends: people who aren't your target users who have opinions that don't help
-2. Business thinking: having shitty business sense as a result of Twitter, professors who don't really know what they're talking about, and similar sources
+2. Business thinking: having bad business sense as a result of Twitter, professors who don't really know what they're talking about, and similar sources
 3. Dreamy obsession: having an obsession with something sexy that you're not qualified at all to solve, like NLP as a high school student
 
-To solve the pollution, slap yourself in the face if you're ever using your "business", "academic", or "pure" brain and find a real problem — if you're lucky, it's something that you're rationally curious about and is something about the world that pisses you off.
+To solve the pollution, slap yourself in the face if you're ever using your "business", "academic", or "pure" brain and find a real problem — if you're lucky, it's something that you're rationally curious about and is something about the world that ticks you off.
 
 *Real Problems*
 
@@ -123,15 +123,15 @@ To extract a problem out of yourself, Michael has a technique called biography:
 
 There is something here about "blind spot problems" — the idea is that there is an inverse relationship between how much a problem is in your blind spot (how much you know about a problem space) and how much you want to solve that same problem. The less you know about a problem space, the more you'll think you're a genius who is going to solve this and that everyone who failed to solve it was an idiot.
 
-If you don't have a problem, you need to realize that you don't have insights about the solution to the problem. Hence, you need to adopt a problem-haver and use their judgement to figure out if they're solving the problem. The miniscule intersection between the two of you is that you *also* give a shit about the problem — you will not want to solve a random stranger's problem.
+If you don't have a problem, you need to realize that you don't have insights about the solution to the problem. Hence, you need to adopt a problem-haver and use their judgement to figure out if they're solving the problem. The miniscule intersection between the two of you is that you *also* care about the problem — you will not want to solve a random stranger's problem.
 
 *Pitching*
 
 The best pitches are the ones where you pitch so good that you know what the next questions are. In the most ideal situation, catch investors in a trap where they think they've caught *you* in a trap and grand slam the question home.
 
-The YC "Shit Test" is the question that is implicitly answered of what material between wet paper towel and flesh is your chest made of. With finite knowledge of seemingly infinite things, YC will poke at your chest to find gaps in your business. If you handle 2-3 Shit Tests well, investors will start believing in you.
+The YC "Sh!t Test" is the question that is implicitly answered of what material between wet paper towel and flesh is your chest made of. With finite knowledge of seemingly infinite things, YC will poke at your chest to find gaps in your business. If you handle 2-3 Sh!t Tests well, investors will start believing in you.
 
-The more "fuck you" your vision is, the later it should be in your pitch, Do *not* sell yourself as eating all of Google's lunch as a no-name, invalidated company.
+The more "screw you" your vision is, the later it should be in your pitch, Do *not* sell yourself as eating all of Google's lunch as a no-name, invalidated company.
 
 > If Google told investors that they were going to be the Microsoft of webapps, they wouldn't have raised a dollar.
 {{< /expand >}}
@@ -140,7 +140,7 @@ The more "fuck you" your vision is, the later it should be in your pitch, Do *no
 Working on "Platform" at a venture capital role is the happy medium between working at a startup and a venture fund. Simply, it's "everything else that's not writing a check". 
 
 - People look down upon the role because it wasn't an OG role — it wasn't something that was as much needed in the early days of venture capital as it is today
-- Nina thinks the above is bullshit and that people in marketing get the shit end of the stick (loves companies that genuinely attribute marketing efforts; at Hubspot, Nina sure as shit wrote the email that a client opened (measured), clicked on (measured), engaged with (measured) that led to a signed deal 3 months later (*immeasurable* to the company))
+- Nina thinks the above is BS and that people in marketing get the poor end of the stick (loves companies that genuinely attribute marketing efforts; at Hubspot, Nina knows that she wrote the email that a client opened (measured), clicked on (measured), engaged with (measured) that led to a signed deal 3 months later (*immeasurable* to the company))
 - Arguably thinks people should take more pride being on the platform team than if on the investing team. Another investor has next to nothing to do with an investment even if you both hop on calls with each other, but as a platform team, all of you led to the fruition of an effort!
 - Similarly, thinks a lot of Platform should get its props because they are the machine behind everything that makes that *everything* possible. "The real beauty is in the talent manager who hires the team around you who deals with the support tickets, manage the product, etc.", Nina argues
 - Fluctuates about the "next role that'll become table stakes as much as Platform has" *after Platform roles become table stakes*. Nina used to say that there was going to be a huge reckoning that would have the "best" prevail — a huge draining of the early stage funds and taking back control of the pipeline of microfunds but provided some long-pause-prefaced contradicting thoughts, in the following order:
