@@ -57,7 +57,7 @@ Sidra explained that as a new direct to consumer (DTC) company in the age of B2B
 {{< /expand >}}
 
 {{< expand "From Kim Malek (Telling a Story)" >}}
-Calling in to BTF from her home in Florida, Kim's story was genuine from start to finish. Complete with impeccably-timed Zoom interruptions from her son asking for Gatorade out of the fridge, listening to Kim's modest adaptation of Salt & Straw's success was *almost* as sweet as the brand's ice cream.
+Calling in to BTF from her home in Oregon, Kim's story was genuine from start to finish. Complete with impeccably-timed Zoom interruptions from her son asking for Gatorade out of the fridge, listening to Kim's modest adaptation of Salt & Straw's success was *almost* as sweet as the brand's ice cream.
 
 > When we first started, we got a lot of backlash from investors about "investing in people, supply chain relationships, and supporting local innovation". They always went "Who are you, Starbucks?"
 
