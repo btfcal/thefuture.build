@@ -40,6 +40,6 @@ banner = "/images/banner.png"
       weight = 5
 
   [[menu.main]]
-      name = "Newsletters"
-      url = "/newsletters/"
+      name = "Blogs"
+      url = "/blogs/"
       weight = 6

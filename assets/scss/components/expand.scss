@@ -1,5 +1,5 @@
 .expandable {
-    margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
 
   .expand-label {
     cursor: pointer;
@@ -7,7 +7,7 @@
     h3 {
       user-select: none;
       transition: all 0.2s ease-in-out;
-      color: #363636!important;
+      color: #363636 !important;
       font-size: 1.3rem;
       font-family: $body-family;
 
@@ -31,7 +31,7 @@
 
     &.active {
       h3 {
-        color: $primary!important;
+        color: $primary !important;
         &::after {
           top: 0.5em;
           transform: rotate(-45deg);

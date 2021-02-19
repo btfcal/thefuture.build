@@ -14,13 +14,13 @@
         </div>
     </div>
 </section>
-<section class="section page-list">
-    <div class="container pb-md-12 pb-6">
+<section class="section page-list pt-0">
+    <div class="container pb-md-12 pb-6 pt-0">
         <div class="row justify-content-start">
             <div class="col-12 col-md-8">
                 {{ $paginator := .Paginator }}
                 {{ range (.Paginate .RegularPagesRecursive).Pages.ByWeight }}
-                <div class="newsletter-summary mb-4">{{ .Render "summary" }}</div>
+                <div class="newsletter-summary mb-6">{{ .Render "summary" }}</div>
                 {{ end }}
                 {{ if eq $paginator.TotalPages 0 }}
                     <h1 class="subtitle">Oops! Nothing here yet. Check back later!</h1>

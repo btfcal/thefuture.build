@@ -22,11 +22,13 @@ div.content {
     color: $primary;
   }
 
-  p, ul, ol {
+  p,
+  ul,
+  ol {
     font-size: 1.2rem;
     line-height: 1.75;
   }
-  
+
   .image {
     margin-bottom: 10px;
 
@@ -39,5 +41,11 @@ div.content {
       text-align: center;
       font-size: 0.8rem;
     }
+  }
+  
+  blockquote {
+    background-color: whitesmoke;
+    border-left: 5px solid #dbdbdb;
+    padding: 1.25em 1.5em;
   }
 }

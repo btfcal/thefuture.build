@@ -1,7 +1,13 @@
 .hero {
-  &.is-small {
-    .hero-body {
-      padding: 4rem 4rem 1rem!important;
+  padding-top: 3rem;
+
+  @media only screen and (max-width: $tablet) {
+    h1.title {
+      font-size: 2.5rem;
+    }
+
+    h2.subtitle {
+      font-size: 1.2rem;
     }
   }
 
@@ -12,10 +18,6 @@
 
       .container {
         z-index: 2;
-      }
-
-      img.landing-logo {
-        height: 13rem;
       }
 
       hr {
