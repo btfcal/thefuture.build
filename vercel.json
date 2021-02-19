@@ -3,5 +3,8 @@
     "env": {
       "HUGO_VERSION": "0.80.0"
     }
-  }
+  },
+  "redirects": [
+    { "source": "/newsletters/(.*)", "destination": "/blogs/$1", "permanent": false }
+  ]
 }
