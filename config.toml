@@ -25,11 +25,6 @@ banner = "/images/banner.png"
       weight = 1
 
   [[menu.main]]
-      name = "Events"
-      url = "/events/"
-      weight = 2
-
-  [[menu.main]]
       name = "About"
       url = "/about/"
       weight = 3
