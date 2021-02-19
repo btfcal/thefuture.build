@@ -3,7 +3,8 @@ module.exports = {
     autoprefixer: {},
     cssnano: { preset: 'default' },
     '@fullhuman/postcss-purgecss': {
-      content: ['./**/*.html', './**/*.js']
+      content: ['./**/*.html', './**/*.js'],
+      whitelist: ['blockquote']
     }
   }
 }
