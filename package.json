@@ -22,5 +22,8 @@
     "dev": "hugo server",
     "build": "hugo --gc --minify",
     "dry": "hugo --gc --minify"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }

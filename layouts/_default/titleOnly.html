@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="hero is-large">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-1">
+                {{ safeHTML .Params.htmlTitle }}
+            </h1>
+            <div class="titleOnly content">
+                {{ .Content }}
+            </div>
+            {{ if .Params.link }}
+            <a href="{{ .Params.link }}" class="button is-primary" {{ if strings.HasPrefix .Params.link "http" }} target="_blank" rel="noopener" {{ end }}>{{ .Params.linkText }}</a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{end}}

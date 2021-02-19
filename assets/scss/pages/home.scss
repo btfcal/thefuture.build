@@ -1,0 +1,10 @@
+.home-page {
+  .home-title {
+
+    font-size: 3rem;
+    @media only screen and (min-width: $tablet) {
+
+        font-size: 4.5rem;
+    }
+  }
+}

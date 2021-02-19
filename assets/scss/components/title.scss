@@ -8,4 +8,8 @@ h6 {
     font-family: $title-family;
     font-weight: bold;
   }
+
+  &.subtitle {
+    line-height: 1.8;
+  }
 }

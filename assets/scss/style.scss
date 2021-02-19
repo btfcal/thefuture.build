@@ -53,12 +53,14 @@ em {
 @import './components/sponsors.scss';
 @import './components/navbar.scss';
 @import './components/content.scss';
+@import './components/subscribe.scss';
 
 @import './pages/community.scss';
 @import './pages/about.scss';
 @import './pages/newsletters.scss';
+@import './pages/home.scss';
 
 @import '../../node_modules/bulma/bulma';
 
 // custom plugins
-@import '../../node_modules/animate.css/animate';
+// @import '../../node_modules/animate.css/animate';

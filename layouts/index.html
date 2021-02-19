@@ -1,19 +1,20 @@
 {{ define "main" }}
-<section class="hero is-medium landing">
-    <div class="hero-body">
-        <img class="sphere sphere-0" src="/vectors/sphere.svg" />
-        <img class="sphere sphere-1" src="/vectors/sphere.svg" />
-        <img class="sphere sphere-2" src="/vectors/sphere.svg" />
-        <div class="container">
-            <div class="animate__animated animate__fadeInUp">
-                <img class="landing-logo" src="/vectors/logo-type.svg" alt="Build the Future">
-                <h2 class="subtitle is-4">
-                    UC Berkeley’s student-run <em>entrepreneurship hub</em>.
-                </h2>
-                <!-- <a href="https://fa20.thefuture.build" class="button is-primary">Event Registration</a> -->
-                <a href="/decal" class="button is-primary is-wider">BTF DeCal</a>
+<div class="home-page">
+    <section class="hero is-medium landing">
+        <div class="hero-body">
+            <img class="sphere sphere-0" src="/vectors/sphere.svg" />
+            <img class="sphere sphere-1" src="/vectors/sphere.svg" />
+            <img class="sphere sphere-2" src="/vectors/sphere.svg" />
+            <div class="container">
+                <div>
+                    <h2 class="title home-title">
+                        <em>Build the Future</em><br />
+                        is UC Berkeley’s student-run <em>entrepreneurship hub</em>.
+                    </h2>
+                    {{ partial "subscribe.html" . }}
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+</div>
 {{end}}

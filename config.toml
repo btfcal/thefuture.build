@@ -4,10 +4,10 @@ title = "Build the Future"
 
 disableHugoGeneratorInject = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+relativeURLs = true
+ 
 enableEmoji = true
 enableRobotsTXT = true
-canonifyURLs = true
 
 [outputs]
 home = ["HTML","RSS"]

@@ -5,6 +5,13 @@ div.content {
     max-width: 75%;
   }
 
+  &.titleOnly {
+    p {
+      font-size: 1.4rem;
+      font-family: $body-family;
+    }
+  }
+
   h1,
   h2,
   h3,
