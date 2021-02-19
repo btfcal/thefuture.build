@@ -28,7 +28,7 @@ export default async (req, res) => {
       })
     }
 
-    return res.redirect("/subscribed")
+    return res.redirect(303, "/subscribed")
   } catch (error) {
     return res.status(500).json({ error: error.message || error.toString() })
   }
