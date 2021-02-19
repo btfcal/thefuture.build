@@ -1,5 +1,5 @@
-require("dotenv").config();
-const fetch = require('node-fetch');
+require('dotenv').config()
+const fetch = require('node-fetch')
 
 export default async (req, res) => {
   const { email } = req.body
@@ -23,13 +23,12 @@ export default async (req, res) => {
     )
 
     if (response.status >= 400) {
-      return res.status(400).json({
-        error: `There was an error subscribing to the newsletter.`
-      })
+      return res.redirect(303, '/subscribe/error')
     }
 
-    return res.redirect(303, "/subscribed")
+    return res.redirect(303, '/subscribe/success')
   } catch (error) {
-    return res.status(500).json({ error: error.message || error.toString() })
+    console.log(error)
+    return res.redirect(303, '/subscribe/error')
   }
 }
