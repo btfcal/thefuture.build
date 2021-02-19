@@ -5,6 +5,17 @@ div.content {
     max-width: 75%;
   }
 
+  blockquote {
+    background-color: whitesmoke;
+    border-left: 5px solid #dbdbdb;
+    padding: 1.25em 1.5em;
+
+    p {
+      font-size: 1.1rem;
+      font-style: italic;
+    }
+  }
+
   &.titleOnly {
     p {
       font-size: 1.4rem;
@@ -41,11 +52,5 @@ div.content {
       text-align: center;
       font-size: 0.8rem;
     }
-  }
-  
-  blockquote {
-    background-color: whitesmoke;
-    border-left: 5px solid #dbdbdb;
-    padding: 1.25em 1.5em;
   }
 }
