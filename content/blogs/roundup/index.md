@@ -31,15 +31,15 @@ And did that he did! As of our conversation, Afterpay is regarded as one of the 
 
 - **Be very sure (with substantial evidence) of demographic spending trends**
 
-Nick tapped into the financial need of the fashion and beauty industry, partnering really closely with big influencer-directive consumer brands (Kylie Jenner, Gymshark) to build beneficial, one-to-many viral relationships.
+    Nick tapped into the financial need of the fashion and beauty industry, partnering really closely with big influencer-directive consumer brands (Kylie Jenner, Gymshark) to build beneficial, one-to-many viral relationships.
 
 - **Valuing diversity of thought and really being intentional about the people you hire**
 
-The balance of team and individuals across especially across a global aspect served as huge leverage for Afterpay. Nick personally looks for people who have a large appreciation for the customer.
+    The balance of team and individuals across especially across a global aspect served as huge leverage for Afterpay. Nick personally looks for people who have a large appreciation for the customer.
 
 - **Be deeply rooted in building and maintaining trust**
 
-For businesses working with Afterpay, not much is affected in terms of 'accounting' in that post-purchase, retailers get paid the very next day. Afterpay handles the customer-facing payment in installments. This means that if there is ever an issue of an outstanding debt, Afterpay disables users' accounts until debts are repaid. This ensures that they are never in hot water with retailers, their primary customers.
+    For businesses working with Afterpay, not much is affected in terms of 'accounting' in that post-purchase, retailers get paid the very next day. Afterpay handles the customer-facing payment in installments. This means that if there is ever an issue of an outstanding debt, Afterpay disables users' accounts until debts are repaid. This ensures that they are never in hot water with retailers, their primary customers.
 {{< /expand >}}
 
 {{< expand "From Sidra Qasim (Product Market Fit)" >}}
@@ -101,7 +101,7 @@ To accompany this, in the same nonchalant, whimsical voice, Dylan described "not
 {{< /expand >}}
 
 {{< expand "From Michael Seibel (a special BTF event)" >}}
-*Pollution*
+### Pollution
 
 > The Valley is being overrun by a pollution — the "upper middle class, good school people that don't have ideas" and scenesters, people who want to "play startup"
 
@@ -113,7 +113,7 @@ This pollution is fucking with people and it comes from three sources:
 
 To solve the pollution, slap yourself in the face if you're ever using your "business", "academic", or "pure" brain and find a real problem — if you're lucky, it's something that you're rationally curious about and is something about the world that pisses you off.
 
-*Real Problems*
+### Real Problems
 
 To extract a problem out of yourself, Michael has a technique called biography:
 
@@ -125,7 +125,7 @@ There is something here about "blind spot problems" — the idea is that there i
 
 If you don't have a problem, you need to realize that you don't have insights about the solution to the problem. Hence, you need to adopt a problem-haver and use their judgement to figure out if they're solving the problem. The miniscule intersection between the two of you is that you *also* give a shit about the problem — you will not want to solve a random stranger's problem.
 
-*Pitching*
+### Pitching
 
 The best pitches are the ones where you pitch so good that you know what the next questions are. In the most ideal situation, catch investors in a trap where they think they've caught *you* in a trap and grand slam the question home.
 

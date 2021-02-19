@@ -40,6 +40,12 @@ div.content {
     line-height: 1.75;
   }
 
+  li {
+    p {
+      margin-bottom: 0 !important;
+    }
+  }
+
   .image {
     margin-bottom: 10px;
 
@@ -52,5 +58,11 @@ div.content {
       text-align: center;
       font-size: 0.8rem;
     }
+  }
+
+  em {
+    font-weight: normal;
+    color: #4a4a4a;
+    font-style: italic;
   }
 }
