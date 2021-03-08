@@ -2,12 +2,14 @@ require('dotenv').config()
 const fetch = require('node-fetch')
 const { BUTTONDOWN_API_KEY } = process.env
 
-exports.handler = async (event) => {
-  const payload = JSON.parse(event.body).payload
-  let email = payload.email
+exports.handler = async event => {
+  const email = JSON.parse(event.body).payload.email
 
   if (!email) {
-    return res.status(400).json({ error: 'Email is required' })
+    return {
+      statusCode: 400,
+      message: "Email is required."
+    }
   }
 
   try {

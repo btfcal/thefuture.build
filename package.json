@@ -23,6 +23,7 @@
     "dry": "hugo --gc --minify"
   },
   "dependencies": {
+    "netlify-cli": "^3.10.6",
     "node-fetch": "^2.6.1"
   }
 }
