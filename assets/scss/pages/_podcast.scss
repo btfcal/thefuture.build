@@ -131,7 +131,6 @@
 
       &:hover {
         box-shadow: 0px 0px 30px 3px $blue;
-
       }
 
       @media only screen and (max-width: $tablet) {
@@ -152,6 +151,16 @@
 
       a {
         color: $pink;
+        text-decoration-color: $pink;
+
+        &:hover {
+          color: $pink;
+        }
+
+        &:visited {
+          color: adjust-hue($pink, 45deg);
+          text-decoration-color: adjust-hue($pink, 45deg);
+        }
       }
     }
   }

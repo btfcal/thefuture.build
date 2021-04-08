@@ -41,6 +41,25 @@ div.content {
     line-height: 1.75;
   }
 
+  a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: $blue;
+    text-decoration-thickness: .125em;
+    text-underline-offset: 0px;
+    text-decoration-skip: edges leading-spaces trailing-spaces;
+
+    &:hover {
+      color: $blue;
+      text-decoration-style: solid;
+    }
+
+    &:visited {
+      color: adjust-hue($blue, 45deg);
+      text-decoration-color: adjust-hue($blue, 45deg);
+    }
+  }
+
   li {
     p {
       margin-bottom: 0 !important;
