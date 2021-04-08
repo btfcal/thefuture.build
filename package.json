@@ -15,6 +15,7 @@
     "postcss": "^8.2.9",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.1",
+    "postcss-svgo": "^4.0.0",
     "vercel": "^21.3.3"
   },
   "scripts": {
