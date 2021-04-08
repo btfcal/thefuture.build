@@ -1,0 +1,61 @@
+{{ define "header_css" }}
+<style>
+    body {
+        background-color: black;
+    }
+</style>
+{{ end }}
+{{ define "main" }}
+<div class="container podcast-list">
+    <div class="columns">
+        <div class="column is-one-third">
+            <section class="hero is-medium is-dark">
+                <div class="hero-body">
+                    <div class="container">
+                        <h1 class="title is-1">
+                            {{ safeHTML .Params.htmlTitle }}
+                        </h1>
+                        <h2 class="subtitle is-6">
+                            {{ safeHTML .Params.description }}
+                        </h2>
+                        {{ if .Params.link }}
+                        <a href="{{ .Params.link }}" class="button is-primary" {{ if strings.HasPrefix .Params.link "http" }} target="_blank" rel="noopener" {{ end }}>{{ .Params.linkText }}</a>
+                        {{ end }}
+                        <a href="https://anchor.fm/btfcal" class="button is-primary pl-5 pr-5" target="_blank" rel="noopener">Listen on Anchor</a>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="column podcast-ep-list">
+            <section class="section page-list pt-0">
+                <div class="container pb-md-12 pb-6 pt-0">
+                    <div class="row justify-content-start">
+                        <div class="col-12 col-md-8">
+                            <div class="spacer"></div>
+                            {{ $paginator := .Paginator }}
+                            {{ range (.Paginate .RegularPagesRecursive).Pages.ByWeight }}
+                            <div class="podcast-summary mb-6">{{ .Render "summary" }}</div>
+                            {{ end }}
+                            {{ if eq $paginator.TotalPages 0 }}
+                            <h1 class="subtitle">Oops! Nothing here yet. Check back later!</h1>
+                            {{ end }}
+                            <div class="paginator">
+                                {{ if $paginator.HasPrev }}
+                                <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous button float-left">
+                                    « Newer
+                                </a>
+                                {{ end }}
+                                {{ if $paginator.HasNext }}
+                                <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next button float-right">
+                                    Older »
+                                </a>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+{{ end }}

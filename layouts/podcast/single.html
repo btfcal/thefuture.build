@@ -1,0 +1,38 @@
+{{ define "header_css" }}
+<style>
+  body {
+    background-color: black;
+  }
+</style>
+{{ end }}
+{{ define "main" }}
+<div class="single-podcast">
+  <section class="hero is-small is-dark">
+    <div class="hero-body">
+      <div class="container post-header">
+        <h1 class="title is-3 mb-2">
+          EP{{ .Params.episode }}: {{ .Title }}
+        </h1>
+        <p class="post-meta"><strong>Published {{ dateFormat "Jan 2, 2006" .Params.date }}</strong></p>
+      </div>
+    </div>
+  </section>
+  <section class="section pt-0">
+    <div class="container pb-6 pt-2 pt-md-2 pb-md-10">
+      <div class="row justify-content-start mt-3">
+        <div class="col-12 col-md-8">
+          <br />
+          <div class="content">
+            <div class="embed-container">
+              <iframe class="anchor-embed" src="https://anchor.fm/btfcal/embed/episodes/{{.Params.anchor_id}}" height="120px" width="100%" frameborder="0" scrolling="no">
+                Embedded content is not supported.</iframe>
+              <div class="podloader">Loading...</div>
+            </div>
+            {{.Content}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

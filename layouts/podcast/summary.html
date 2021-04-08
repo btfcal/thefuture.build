@@ -1,0 +1,8 @@
+<div class="summary">
+  <div class="titles">
+    <a href="{{ .RelPermalink }}">
+      <h2 class="title">EP{{ .Params.episode }}: {{ .Title }}</h2>
+    </a>
+    <p class="meta"><strong>Published {{ dateFormat "Jan 2, 2006" .Params.date }}</strong>{{if .Params.author}} by <strong>{{.Params.author}}</strong>{{end}}</p>
+  </div>
+</div>

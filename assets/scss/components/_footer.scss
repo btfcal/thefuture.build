@@ -1,6 +1,6 @@
 $footer-background-color: #000000;
 $footer-color: #ffffff;
-$footer-padding: 3rem 1.5rem 3rem;
+$footer-padding: 3rem 1.5rem 1rem;
 
 .footer {
   a {
@@ -63,6 +63,13 @@ $footer-padding: 3rem 1.5rem 3rem;
     @media only screen and (min-width: $tablet) {
       text-align: right;
       float: right;
+    }
+
+    .disclaimer {
+      max-width: 48ch;
+      font-size: .75rem;
+      color: gray;
+      margin-top: .5rem;
     }
   }
 }
