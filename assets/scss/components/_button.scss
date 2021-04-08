@@ -1,4 +1,5 @@
-a.button, button.button {
+a.button,
+button.button {
   border-style: none;
   border-radius: 15px;
   font-weight: bold;
@@ -46,5 +47,10 @@ a.button, button.button {
   &.is-alt {
     background-color: $pink;
     color: #000000;
+  }
+
+  &.is-spotify {
+    background-color: #1db954;
+    color: #191414;
   }
 }

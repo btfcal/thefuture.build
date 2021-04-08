@@ -1,5 +1,10 @@
 [
   {
+    "name": "Email",
+    "link": "mailto:btfdecal@gmail.com",
+    "image": "/vectors/social/email.svg"
+  },
+  {
     "name": "Twitter",
     "link": "https://twitter.com/btfcal",
     "image": "/vectors/social/twitter.svg"

@@ -35,11 +35,19 @@ banner = "/images/banner.png"
       weight = 4
 
   [[menu.main]]
-      name = "Community"
-      url = "/community/"
+      name = "Podcast"
+      url = "/podcast/"
       weight = 5
 
   [[menu.main]]
       name = "Blogs"
       url = "/blogs/"
       weight = 6
+      
+  [[menu.main]]
+      name = "Community"
+      url = "/community/"
+      weight = 7
+
+
+
