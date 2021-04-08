@@ -46,7 +46,7 @@ div.content {
     text-decoration-style: dotted;
     text-decoration-color: $blue;
     text-decoration-thickness: .125em;
-    text-underline-offset: 0px;
+    text-underline-offset: 1.2px;
     text-decoration-skip: edges leading-spaces trailing-spaces;
 
     &:hover {
