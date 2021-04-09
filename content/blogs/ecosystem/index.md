@@ -1,5 +1,5 @@
 ---
-title: "Guide to Berkeley Ecosystem"
+title: "Rolling Guide to Berkeley Ecosystem"
 date: 2021-02-19T11:05:52-05:00
 author: "BTF Team"
 featured_image: images/featured.jpg
@@ -12,7 +12,7 @@ We’ve been there. And we remember the sensory and auditory overload that accom
 
 In continuing to foster that same entrepreneurial spirit, below is a rundown of organizations we’d turn to in the Berkeley ecosystem, from student clubs that will equip you with the skills needed to code/design/build models to incubators and VC funds that will help you navigate the labyrinth of getting funded and launching.
 
-Over the next couple of weeks, we’ll accompany this initial list with a deep dive into each organization, trying to understand what their secret sauce is and distilling down everything anyone needs to navigate the collection of Cal *clubs* quickly.
+Over the next couple of weeks, we’ll accompany this list with a deep dive into each organization, trying to understand what their secret sauce is and distilling down everything anyone needs to navigate the collection of Cal *clubs* quickly.
 
 ## Student Groups
 
