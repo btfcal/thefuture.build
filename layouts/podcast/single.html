@@ -11,9 +11,9 @@
     <div class="hero-body">
       <div class="container post-header">
         <h1 class="title is-3 mb-2">
-          EP{{ .Params.episode }}: {{ .Title }}
+          {{ if not .Params.bonus }}EP{{ .Params.episode }}: {{ end }}{{ .Title }}
         </h1>
-        <p class="post-meta"><strong>Published {{ dateFormat "Jan 2, 2006" .Params.date }}</strong></p>
+        <p class="post-meta"><strong>Published {{ dateFormat "Jan 2, 2006" .Params.date }}</strong>{{ if .Params.bonus }}<span class="special"> &ndash; Special Episode</span>{{ end }}</p>
       </div>
     </div>
   </section>

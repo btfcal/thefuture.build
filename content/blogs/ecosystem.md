@@ -1,9 +1,6 @@
 ---
 title: "Guide to Berkeley Ecosystem"
 date: 2021-02-19T11:05:52-05:00
-author: "BTF Team"
-featured_image: images/featured.jpg
-draft: false
 ---
 
 Odds are you’ve walked through Sather and at any given time there were at least 8 different people trying to give you their organization’s spiel. Arms outstretched, they chorus: “Would you like to join ABC?”

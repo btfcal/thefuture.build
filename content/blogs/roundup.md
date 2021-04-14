@@ -1,9 +1,6 @@
 ---
 title: "A Roundup of BTF's Fall 2020 Semester"
 date: 2021-02-19
-author: "BTF Team"
-featured_image: images/featured.jpg
-draft: false
 ---
 
 For people who are looking for good news about running DeCals online, Build The Future in Fall of 2020 should be a beacon of hope. Despite the looming Zoom fatigue that everyone can sympathize with nowadays, once a week at 6pm sharp, greeted by the cascade of Zoom join chimes, we held BTF. Undoubtedly, the reason why we could always guarantee that students would come back was because of the kickass show we always put on — all because of the founders we hand-select every semester. 
