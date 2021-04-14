@@ -23,6 +23,8 @@ Whether you're current students or a number of years out of Berkeley, if you're 
 
 In line with last week's episode on HQ roles at Dorm Room Fund, we got our first call-in from [Tanthai Pongstien](https://twitter.com/tanthaip?lang=en), who is currently Head of Design at DRF and a current senior at Cal. We talk who Tanthai would be if not for HQ and try to get Brandon to apply — if you think you'd be better fit for the role than him, [apply to HQ by April 18th](https://join.dormroomfund.com/)!
 
-## [Do One Better with Maitri and Gibson](https://thefuture.build/podcast/do-one-better)
+## Do One Better with Maitri and Gibson
 
-Fast following our first guest, [Maitri Shah ('20)](https://twitter.com/maitrishahhhh) and [Gibson Chu ('20)](https://twitter.com/gibsontchu) hopped on for a little bit to talk about their launch of [Do One Better](https://doonebetter.today/), a free resource for sustainable and ethically-produced alternatives to daily-use products. This section of the show was much more dense than we had slotted time for, so we turned it into a bonus episode — [give that a listen here](https://thefuture.build/podcast/do-one-better)!
+Fast following our first guest, [Maitri Shah '20](https://twitter.com/maitrishahhhh) and [Gibson Chu '20](https://twitter.com/gibsontchu) hopped on for a little bit to talk about their launch of [Do One Better](https://doonebetter.today/), a free resource for sustainable and ethically-produced alternatives to daily-use products. This section of the show was much more dense than we had slotted time for, so we turned it into a bonus episode!
+
+**[Take a Listen Here »](/podcast/do-one-better)**

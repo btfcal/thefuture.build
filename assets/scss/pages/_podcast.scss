@@ -40,39 +40,38 @@
 }
 
 .single-podcast {
-
   .special {
     color: $primary;
     font-weight: bold;
   }
 
   .content {
+    color: $white;
+
     h1,
     h2,
     h3 {
-      color: #fff;
+      color: $white;
     }
 
-    p {
-      color: #fff;
+    a {
+      color: $pink;
+      text-decoration-color: $pink;
 
-      a {
+      &:hover {
         color: $pink;
-        text-decoration-color: $pink;
-
-        &:hover {
-          color: $pink;
-        }
-
-        &:visited {
-          color: adjust-hue($pink, 45deg);
-          text-decoration-color: adjust-hue($pink, 45deg);
-        }
       }
 
-      strong {
-        color: $white;
+      &:visited {
+        color: adjust-hue($pink, 45deg);
+        text-decoration-color: adjust-hue($pink, 45deg);
       }
+    }
+
+    i,
+    strong,
+    em {
+      color: $white;
     }
   }
 }

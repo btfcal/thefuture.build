@@ -8,6 +8,8 @@ bonus: true # hides the "EP"
 
 ## Transcript
 
+{{< transcript >}}
+
 **Brandon:** Thanks so much for hopping on. This is our iteration at a call in radio kind of show. I think we were doing intros with our last guest, but the one rule is that you don't phrase it in a way you would do it in like a coffee chat at Berkeley. I'm not trying to like get the 500+ from you on LinkedIn. So just like, introduce yourself!
 
 **Maitri:** I can go first. Hi, I'm Maitri. I'm a recent grad from Berkeley, I work at NerdWallet now as a full stack engineer, but outside of that I'm really interested in design, sustainability, education, and entrepreneurship so right now, during COVID, I'm working on this project doing better with Gibson. I'm hoping to empower people -- empower consumers -- about making the right decisions, and providing transparency on products that are more sustainable and ethical and better for consumers.
@@ -99,3 +101,5 @@ That kind of brings me to the third point, which is safety and security in worki
 **Maitri:** Thanks for having us!
 
 **Gibson:** Thank you.
+
+{{< /transcript >}}
