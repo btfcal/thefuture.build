@@ -17,11 +17,11 @@ Some unresearched takes that we explored on the show regarded a precedent of mov
 
 ## Office Hours with The House
 
-Whether you're current students or a number of years out of Berkeley, if you're working on a startup, [apply before April 22nd to put some time down with The House](https://thehousecal.typeform.com/to/gFIuafq1#source=twitter), an early stage fund empowering Cal founders.
+Whether you're current students or a number of years out of Berkeley, if you're working on a startup, [apply before April 22nd to put some time down with The House](https://thehousecal.typeform.com/to/gFIuafq1#source=btf), an early stage fund empowering Cal founders.
 
 ## A Call-in from Tanthai, Head of Design at DRF
 
-In line with last week's episode on HQ roles at Dorm Room Fund, we got our first call-in from [Tanthai Pongstien](https://twitter.com/tanthaip?lang=en), who is currently Head of Design at DRF and a current senior at Cal. We talk who Tanthai would be if not for HQ and try to get Brandon to apply — if you think you'd be better fit for the role than him, [apply to HQ by April 18th](https://join.dormroomfund.com/)!
+In line with last week's episode on HQ roles at Dorm Room Fund, we got our first call-in from [Tanthai Pongstien](https://twitter.com/tanthaip), who is currently Head of Design at DRF and a current senior at Cal. We talk who Tanthai would be if not for HQ and try to get Brandon to apply — if you think you'd be better fit for the role than him, [apply to HQ by April 18th](https://join.dormroomfund.com/)!
 
 ## Do One Better with Maitri and Gibson
 
