@@ -3,7 +3,7 @@
     <a href="{{ .RelPermalink }}">
       <h2 class="title">{{ .Title }}</h2>
     </a>
-    <p class="meta"><strong>{{ dateFormat "Jan 2, 2006" .Params.date }}</strong> by <strong>{{.Params.author}}</strong></p>
+    <p class="meta">Published <strong>{{ dateFormat "Jan 2, 2006" .Params.date }}</strong>{{ if .Params.author }} by <strong>{{.Params.author}}</strong>{{ end }}</p>
   </div>
   <p class="abstract">{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}</p>
 </div>
