@@ -1,5 +1,5 @@
 ---
-title: "Do One Better with Maitri Shah ('20) and Gibson Chu ('20)"
+title: "Do One Better with Maitri Shah '20 & Gibson Chu '20"
 date: 2021-04-13
 anchor_id: "Do-One-Better-with-Maitri-Shah-20-and-Gibson-Chu-20-eus27b"
 dark: true
