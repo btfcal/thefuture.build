@@ -55,16 +55,17 @@
     }
 
     a {
-      color: $pink;
-      text-decoration-color: $pink;
+      color: adjust-hue($pink,45deg);
+      text-decoration-color: adjust-hue($pink, 45deg);
 
       &:hover {
-        color: $pink;
+        color: adjust-hue($pink,45deg);
+        text-decoration-color: adjust-hue($pink, 45deg);
       }
 
       &:visited {
-        color: adjust-hue($pink, 45deg);
-        text-decoration-color: adjust-hue($pink, 45deg);
+        color: $pink;
+        text-decoration-color: $pink;
       }
     }
 
