@@ -20,7 +20,7 @@ As it turns out, Nick and I were mutuals on Twitter for a while. Having read man
 
 - ***You often tweet about "not forgetting your context" and remembering the reason you're at Cal. Can you talk to us about your journey here and how it is this unique set of experiences that keeps you grounded?***
 
-    I grew up in Honolulu, Hawaii. It was my 5th grade teacher that pointed me in the direction of solving problems. Fast forward to high school when I ended up playing too much Minecraft and that immediately led to a fondness for computers. I quickly recognized the strength of technology when mixed with the ambitions for innovation as I went through high school. I could have an impact on the world through blending my technological know-how and the values imbibed in me by growing up on the Islands. In that sense, ***I definitely have not let go of the context that sent me here.*** Not only am I from Hawaii but I'm also indigenous to Hawaii. I'm proud of the culture, the trials and tribulations native Hawaiians have been through and it is this upbringing that has helped me develop my unique worldview. I want to continue to explore how to use technology to preserve culture and this ***gives me a very unique reason as to WHY I am here***.
+    I grew up in Honolulu, Hawaii. It was my 5th grade teacher that pointed me in the direction of solving problems. Fast forward to high school when I ended up playing too much Minecraft and that immediately led to a fondness for computers. I quickly recognized the strength of technology when mixed with the ambitions for innovation as I went through high school. I could have an impact on the world through blending my technological know-how and the values imbibed in me by growing up on the Islands. In that sense, I definitely have not let go of the context that sent me here. Not only am I from Hawaii but I'm also indigenous to Hawaii. I'm proud of the culture, the trials and tribulations native Hawaiians have been through and it is this upbringing that has helped me develop my unique worldview. I want to continue to explore how to use technology to preserve culture and this gives me a very unique reason as to why I am here.
 
 - ***Following up on that, what do you think of the Berkeley tech culture in general?***
 
@@ -50,7 +50,7 @@ As it turns out, Nick and I were mutuals on Twitter for a while. Having read man
 
 - ***How do you pick clients?***
 
-    Every summer, project leaders start spreading the word about a new round of projects for non-profits for the coming Fall. We look at whether the non-profit is truly in alignment with the communities they serve, whether their problem can be solved with the use of tech and lastly, if the proposed solution is something we can execute to the best of our abilities. For instance, I championed a project this semester with my high school, Kamehameha Schools, because I understood the gravity of the issue they were facing. In that sense we also make our best effort to be representative of our members and often look to them to champion projects. It boils down to one simple question: **Can we really help make tangible impact?**
+    Every summer, project leaders start spreading the word about a new round of projects for non-profits for the coming Fall. We look at whether the non-profit is truly in alignment with the communities they serve, whether their problem can be solved with the use of tech and lastly, if the proposed solution is something we can execute to the best of our abilities. For instance, I championed a project this semester with my high school, Kamehameha Schools, because I understood the gravity of the issue they were facing. In that sense we also make our best effort to be representative of our members and often look to them to champion projects. It boils down to one simple question: can we really help make tangible impact?
 
 - ***What is it that you do to nurture peoples talents?***
 
@@ -89,9 +89,7 @@ We ended with some heavier questions about the role of Blueprint and his persona
     Working remotely is obviously hard and presents us with a whole new host of challenges, and a lot of the things we could do in person we can’t online. I really hope we can resume the in person work-sessions. That's where I feel like culture is built and the more in-person touchpoints we have, the more cohesive we become.
 {{< /expand >}}
 
-#### WIP - Cal Hacks
-
-If you or someone you know would provide a good view on the inside of Cal Hacks, please [reach out to us](mailto:btfdecal@gmail.com?subject=CalHacks+Perspective+for+Berkeley+Ecosystem)!
+As this guide gets fleshed out, if you or someone you know would provide a good view on the inside of entrepreneurial organizations on campus, please [reach out to us](mailto:btfdecal@gmail.com?subject=Re:+Berkeley+Ecosystem)!
 
 <!--
 
