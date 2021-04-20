@@ -1,25 +1,24 @@
-<nav class="navbar{{ if .Page.Params.dark }} is-dark{{ end }}" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item navbar-icon-item" href="/">
-      <img src="/images/icon.png" class="navbar-icon">
-    </a>
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="siteNav">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
+<nav class="navbar{{ if .Page.Params.dark }} is-dark{{ end }}" role="navigation" aria-label="main navigation" style="width: 100%;">
+  <div class="navbar-start">
+    <div class="navbar-brand">
+      <a class="navbar-item navbar-icon-item" href="/">
+        <img src="/images/icon.png" class="navbar-icon" />
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="siteNav">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
   </div>
-  <div id="siteNav" class="navbar-menu">
-    <div class="navbar-start">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.main.ByWeight }}
+  <div class="navbar-end">
+    <div id="siteNav" class="navbar-menu">
+      {{ $currentPage := . }} {{ range .Site.Menus.main.ByWeight }}
       <a class="navbar-item navbar-item-{{ .Name | lower }}{{ if eq $currentPage.RelPermalink .URL }} is-active{{ end }}" href="{{.URL}}">
         {{ .Pre }}
         <span data-name="{{.Name}}">{{ .Name }}</span>
       </a>
       {{end}}
-    </div>
-    <div class="navbar-end">
     </div>
   </div>
 </nav>

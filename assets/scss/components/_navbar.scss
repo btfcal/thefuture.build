@@ -1,4 +1,20 @@
 .navbar {
+  margin: 0 auto;
+
+  &.is-dark {
+    a {
+      color: $white!important;
+    }
+  }
+
+  @media screen and (min-width: 1216px) {
+      max-width: 1152px;
+  }
+
+  @media screen and (min-width: 1408px) {
+    max-width: 1344px;
+  }
+
   .navbar-icon {
     transform: scale(1.5);
   }

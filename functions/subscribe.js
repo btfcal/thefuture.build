@@ -2,8 +2,9 @@ require('dotenv').config()
 const fetch = require('node-fetch')
 const { BUTTONDOWN_API_KEY } = process.env
 
-exports.handler = async event => {
-  const email = JSON.parse(event.body).payload.email
+exports.handler = async (event, _, callback) => {
+  const email = JSON.parse(event.body).email
+  console.log(email)
 
   if (!email) {
     return {
@@ -17,7 +18,7 @@ exports.handler = async event => {
     const response = await fetch(
       `https://api.buttondown.email/v1/subscribers`,
       {
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({email}),
         headers: {
           Authorization: `Token ${API_KEY}`,
           'Content-Type': 'application/json'
@@ -28,25 +29,16 @@ exports.handler = async event => {
 
     if (response.status >= 400) {
       return {
-        statusCode: 303,
-        headers: {
-          Location: '/subscribe/error'
-        }
+        statusCode: 303
       }
     }
     return {
-      statusCode: 303,
-      headers: {
-        Location: '/subscribe/success'
-      }
+      statusCode: 200
     }
   } catch (error) {
     console.log(error)
     return {
-      statusCode: 303,
-      headers: {
-        Location: '/subscribe/error'
-      }
+      statusCode: 303
     }
   }
 }

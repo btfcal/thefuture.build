@@ -1,9 +1,31 @@
 .home-page {
   .home-title {
     font-size: 3rem;
-    
+    background-clip: text;
+
     @media only screen and (min-width: $tablet) {
-        font-size: 4.5rem;
+      font-size: 4.5rem;
+    }
+
+    em.brand {
+      background: linear-gradient(
+        -60deg,
+        $primary 70%,
+        $pink 75%,
+        $primary 80%
+      );
+      background-size: 200% auto;
+      text-fill-color: transparent;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: shine 3s cubic-bezier(.4,.7,.7,.4) infinite;
+      color: $primary;
+
+      @keyframes shine {
+        from {
+          background-position: 200% center;
+        }
+      }
     }
   }
 }
