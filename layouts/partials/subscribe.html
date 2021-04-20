@@ -45,6 +45,14 @@
                     footer: "Need help?&nbsp;<a href='mailto:btfdecal@gmail.com'>Email us!</a>"
                 })
             }
+        }).catch(e => {
+            submit_button.classList.remove("is-loading")
+            Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'You were not successfully subscribed. We encountered an unknown error.',
+                footer: "Need help?&nbsp;<a href='mailto:btfdecal@gmail.com'>Email us!</a>"
+            })
         })
     });
 </script>
