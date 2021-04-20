@@ -3,20 +3,27 @@
 
   &.is-dark {
     a {
-      color: $white!important;
+      color: $white !important;
     }
   }
 
   @media screen and (min-width: 1216px) {
-      max-width: 1152px;
+    max-width: 1152px;
   }
 
   @media screen and (min-width: 1408px) {
     max-width: 1344px;
   }
 
-  .navbar-icon {
-    transform: scale(1.5);
+  .navbar-icon-item {
+    display: flex;
+    align-items: center;
+
+    .navbar-brand-text {
+      margin-left: .5rem;
+      font-family: $title-family;
+      font-weight: bold;
+    }
   }
 
   .navbar-item:not(.navbar-icon-item) {
