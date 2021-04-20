@@ -20,11 +20,6 @@ banner = "/images/banner.png"
   # Main Menu
 
   [[menu.main]]
-      name = "Home"
-      url = "/"
-      weight = 1
-
-  [[menu.main]]
       name = "About"
       url = "/about/"
       weight = 3
