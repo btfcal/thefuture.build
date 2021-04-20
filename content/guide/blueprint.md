@@ -2,7 +2,7 @@
 title: "Blueprint"
 ---
 
-Kicking off the first deep-dive from our Guide to the Berkeley Ecosystem, we’ll be covering Blueprint, a group that provides software pro-bono for nonprofits and promotes the use of tech for social good. Blueprint has worked on projects alongside 1951 Coffee, the San Francisco Art Institute, and Veterans 360, among others This semester, they’re working with We Care Solar to build a low-bandwidth mobile app for the health workers and Mee Panyar to build a mobile app for local technicians to help maintain decentralized solar mini-grids! The organization has been consistent in helping cultivate software talent for several years now and serving as the outlet for people to use their technical know-how to make tangible impact.
+Kicking off the first deep-dive from our Guide to the Berkeley Ecosystem, we’ll be covering Blueprint, a group that provides software pro-bono for nonprofits and promotes the use of tech for social good. Blueprint has worked on projects alongside 1951 Coffee, the San Francisco Art Institute, and Veterans 360, among others. This semester, they’re working with We Care Solar to build a low-bandwidth mobile app for the health workers and Mee Panyar to build a mobile app for local technicians to help maintain decentralized solar mini-grids! The organization has been consistent in helping cultivate software talent for several years now and serving as the outlet for people to use their technical know-how to make tangible impact.
 
 We were joined by Nick Wong '22, a CS major and technical program lead at Blueprint. In our conversation, we asked him questions about his journey, how he found Blueprint, how Blueprint positions itself in the Berkeley ecosystem, and his vision for the future of the ecosystem.
 
