@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class=" single-post">
+    <section class="hero is-small">
+        <div class="hero-body">
+            <div class="container post-header">
+                <nav class="breadcrumb" aria-label="breadcrumbs">
+                  <ul>
+                    <li><a href="/blogs/ecosystem/">Berkeley Guide</a></li>
+                    <li class="is-active"><a href="#" aria-current="page">{{.Title}}</a></li>
+                  </ul>
+                </nav>
+                <h1 class="title is-1">
+                    {{.Title}}
+                </h1>
+            </div>
+        </div>
+    </section>
+    <section class="section pt-0">
+        <div class="container pb-6 pt-2 pt-md-2 pb-md-10">
+            <div class="row justify-content-start mt-3">
+                <div class="col-12 col-md-8">
+                    <div class="content">{{.Content}}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+{{ end }}
