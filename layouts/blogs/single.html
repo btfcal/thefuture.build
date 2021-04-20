@@ -6,7 +6,7 @@
         <h1 class="title is-1">
           {{.Title}}
         </h1>
-        {{ if .Params.date }}<p class="post-meta">Published {{ dateFormat "Jan 2, 2006" .Params.date }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</p>{{ end }}
+        <p class="post-meta">Published {{ dateFormat "Jan 2, 2006" .Params.date }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</p>
       </div>
     </div>
   </section>
