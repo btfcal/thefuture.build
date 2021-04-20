@@ -1,9 +1,51 @@
 <div class="subscribe">
-    <form class="subscribe-form" method="POST" action="/.netlify/functions/subscribe">
-        <input class="input" type="text" placeholder="What's your email?" name="email" required>
-        <button class="button is-primary" type="submit">
+    <form id="subscribe-form" class="subscribe-form">
+        <input id="email-input" class="input" type="text" placeholder="What's your email?" name="email" required>
+        <button class="button is-primary" type="submit" id="submit-button">
             Subscribe
         </button>
     </form>
     <p class="hint">Use @berkeley.edu email if possible.</p>
 </div>
+<script>
+    let subscribe_form = document.getElementById("subscribe-form")
+    let email_input = document.getElementById("email-input")
+    let submit_button = document.getElementById("submit-button")
+
+    subscribe_form.addEventListener("submit", (event) => {
+        event.preventDefault();
+        submit_button.classList.add("is-loading")
+
+        fetch("/.netlify/functions/subscribe", {
+            method: "POST",
+            body: JSON.stringify({
+                "email": email_input.value
+            })
+        }).then((response) => {
+            submit_button.classList.remove("is-loading")
+            if (response.status === 200) {
+                Swal.fire(
+                    'Thanks for subscribing!',
+                    'Be on the lookout in your inbox for updates. We hope you’ll enjoy the content we put out and help us strengthen the ecosystem together!',
+                    'success'
+                )
+                email_input.value = ""
+            } else if (response.status === 400) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Invalid Email!',
+                    text: "A valid email is required.",
+                    footer: "Need help?&nbsp;<a href='mailto:btfdecal@gmail.com'>Email us!</a>"
+                })
+            } else if (response.status === 303) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'You were not successfully subscribed. If your email address is valid, you should have already been subscribed!',
+                    footer: "Need help?&nbsp;<a href='mailto:btfdecal@gmail.com'>Email us!</a>"
+                })
+            }
+        })
+    });
+</script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@10" defer></script>
