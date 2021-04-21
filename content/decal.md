@@ -2,7 +2,7 @@
 title: "DeCal"
 htmlTitle: "BTF/<em>DeCal</em>"
 description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020)."
-link: https://fa20.thefuture.build
+link: https://www.notion.so/3981017f4d0046efbb1dc36bf8212a3f
 linkText: Fall 2020 Course Website »
 ---
 
