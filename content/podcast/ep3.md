@@ -1,7 +1,7 @@
 ---
 title: "P/NP in the summer, breaks from Berkeley, and HBSA elections"
 episode: 3
-date: 2021-04-20
+date: 2021-04-21
 anchor_id: "EP3-PNP-in-the-summer--breaks-from-Berkeley--and-HBSA-elections-evahek"
 dark: true
 ---
