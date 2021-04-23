@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class=" single-post">
+<div class="single-post">
     <section class="hero is-small">
         <div class="hero-body">
             <div class="container post-header">
@@ -12,6 +12,7 @@
                 <h1 class="title is-1">
                     {{.Title}}
                 </h1>
+                <p class="post-meta">Published {{ if .Params.date }}{{ dateFormat "Jan 2, 2006" .Params.date }} {{ end }}{{ if .Params.author }}by {{ .Params.author }}{{ end }}</p>
             </div>
         </div>
     </section>
