@@ -6,7 +6,52 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ partial "schema" . }}
-    {{ partial "seo" . }}
+    
+    {{ block "seo" . }}{{ end }}
+
+    {{ define "seo" }}
+    {{ $title := site.Title }}
+    {{ if not .IsHome }}
+    {{ $title = printf "%s – %s" .Title .Site.Title }}
+    {{ else }}
+    {{ $title = "Build the Future @ UC Berkeley" }}
+    {{ end }}
+    <title>{{ $title }}</title>
+    <meta property="og:title" content="{{ $title }}" />
+    <meta name="twitter:title" content="{{ $title }}" />
+    <meta itemprop="name" content="{{ $title }}" />
+    <meta name="application-name" content="{{ $title }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    
+    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
+    <meta itemprop="description" content="{{ .Params.description | default .Site.Params.description }}" />
+    <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
+    <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+    
+    <base href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+    <meta name="url" content="{{ .Permalink }}" />
+    <meta name="twitter:url" content="{{ .Permalink }}" /> 
+    <meta property="og:url" content="{{ .Permalink }}" />
+    
+    <meta name="robots" content="index,follow" /> 
+    <meta name="googlebot" content="index,follow" />
+    {{ end }}
+
+    {{ block "og_image" . }}{{end}}
+    {{ define "og_image" }}
+    {{ with .Params.image }}
+    <meta itemprop="image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" />
+    {{ else }}
+    <meta itemprop="image" content="https://btf-og.vercel.app/{{ safeURL (plainify .Title) }}?theme=dark&fontSize=120px" />
+    <meta property="og:image" content="https://btf-og.vercel.app/{{ safeURL (plainify .Title) }}?theme=dark&fontSize=120px" />
+    <meta name="twitter:image" content="https://btf-og.vercel.app/{{ safeURL (plainify .Title) }}?theme=dark&fontSize=120px" />
+    <meta name="twitter:image:src" content="https://btf-og.vercel.app/{{ safeURL (plainify .Title) }}?theme=dark&fontSize=120px" />
+    {{ end }}
+    {{ end }}
     {{ if .Site.IsServer }}
     {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
     <link rel="stylesheet" href="{{ ($style).RelPermalink }}">
@@ -16,7 +61,6 @@
     {{ end }}
     {{ block "header_css" . }}{{ end }}
     <link rel="icon" type="image/png" href="/images/icon.png">
-    
     {{ partial "analytics" . }}
 </head>
 
