@@ -25,15 +25,3 @@
 
 <meta name="robots" content="index,follow" /> 
 <meta name="googlebot" content="index,follow" />
-
-{{ with .Params.image }} 
-  <meta itemprop="image" content="{{ . | absURL }}" />
-  <meta property="og:image" content="{{ . | absURL }}" /> 
-  <meta name="twitter:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
-{{ else }}
-  <meta itemprop="image" content="{{ .Site.Params.banner | absURL }}" />
-  <meta property="og:image" content="{{ .Site.Params.banner | absURL }}" />
-  <meta name="twitter:image" content="{{ .Site.Params.banner | absURL }}" />
-  <meta name="twitter:image:src" content="{{ .Site.Params.banner | absURL }}" /> 
-{{ end }}
