@@ -11,10 +11,10 @@
 <meta name="application-name" content="{{ $title }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 
-<meta name="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
-<meta itemprop="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
-<meta property="og:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
-<meta name="twitter:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
+<meta name="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 160 "…" }}" />
+<meta itemprop="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 160 "…" }}" />
+<meta property="og:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 160 "…" }}" />
+<meta name="twitter:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 160 "…" }}" />
 
 <base href="{{ .Permalink }}">
 <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
