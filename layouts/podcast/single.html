@@ -1,3 +1,7 @@
+{{ define "seo" }}
+{{ partial "descriptiveSEO" . }}
+{{ end }}
+
 {{ define "og_image" }}
 <meta itemprop="image" content="https://btf-og.vercel.app/Podcast EP{{ .Params.episode }}: {{ safeURL (plainify .Title) }}?theme=dark&fontSize=100px" />
 <meta property="og:image" content="https://btf-og.vercel.app/Podcast EP{{ .Params.episode }}: {{ safeURL (plainify .Title) }}?theme=dark&fontSize=100px" />

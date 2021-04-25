@@ -4,7 +4,6 @@
 {{ else }}
 {{ $title = "Build the Future @ UC Berkeley" }}
 {{ end }}
-
 <title>{{ $title }}</title>
 <meta property="og:title" content="{{ $title }}" />
 <meta name="twitter:title" content="{{ $title }}" />
@@ -12,10 +11,10 @@
 <meta name="application-name" content="{{ $title }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 
-<meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
-<meta itemprop="description" content="{{ .Params.description | default .Site.Params.description }}" />
-<meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
-<meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+<meta name="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
+<meta itemprop="description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
+<meta property="og:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
+<meta name="twitter:description" content="{{ .Description | default .Content | plainify | htmlUnescape | truncate 280 "…" }}" />
 
 <base href="{{ .Permalink }}">
 <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
