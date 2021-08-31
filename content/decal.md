@@ -1,9 +1,9 @@
 ---
 title: "DeCal"
 htmlTitle: "BTF/<em>DeCal</em>"
-description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020)."
-link: https://www.notion.so/3981017f4d0046efbb1dc36bf8212a3f
-linkText: Fall 2020 Course Website »
+description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020). FA21 course website coming soon!"
+link: https://docs.google.com/forms/d/e/1FAIpQLScYiHlPb8DXNUMcGofQWXQSXDxUZtDS6sf6Ex--iImY8iLw2w/viewform?usp=sf_link
+linkText: Fall 2021 Application »
 ---
 
 # Why take our DeCal?
@@ -18,11 +18,10 @@ Our curriculum has been carefully crafted by Build The Future DeCal facilitators
 
 In a given week of the course, students come together for two sessions: one session with a guest speaker and introduction to that week’s core topic and a second session reflecting and discussing that week’s topic with a smaller group of students in the class.
 
-You can find our syllabus [here](/media/syllabus_f20.pdf).
+You can find our syllabus [here](/media/syllabus_f21.pdf).
 
 # In The Press
 
 * **[The best Silicon Valley class money can’t buy](https://www.sfexaminer.com/news/the-best-silicon-valley-class-money-cant-buy/)** -- The San Francisco Examiner
 * **[‘Dream, build and start up’: Exploring UC Berkeley’s culture of entrepreneurship](https://www.dailycal.org/2018/08/08/dream-build-start-exploring-uc-berkeleys-culture-entrepreneurship/)** -- The Daily Californian
 * **[Origin stories at The House](https://engineering.berkeley.edu/news/2017/03/origin-stories-at-the-house/)** -- Berkeley Engineering
-
