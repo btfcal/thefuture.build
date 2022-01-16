@@ -1,5 +1,14 @@
 [
     {
+      "name": "Mingjie Jiang",
+      "class": "24",
+      "major": "Computer Science",
+      "linkedin": "https://www.linkedin.com/in/itsmingjie/",
+      "twitter": "https://twitter.com/itsmingjie",
+      "email": "m6@berkeley.edu",
+      "image": "/images/team/mingjie.jpg"
+    },
+    {
       "name": "Brandon Handoko",
       "class": "22",
       "major": "Computer Science, Cognitive Science",
