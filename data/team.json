@@ -1,5 +1,14 @@
 [
     {
+      "name": "Brandon Handoko",
+      "class": "22",
+      "major": "Computer Science, Cognitive Science",
+      "linkedin": "https://www.linkedin.com/in/brandon-handoko/",
+      "twitter": "https://twitter.com/brndnwll",
+      "email": "brndn@berkeley.edu",
+      "image": "/images/team/brandon.png"
+    },
+    {
       "name": "Divyansh Saksena",
       "class": "22",
       "major": "Economics, Operations Research and Management Sciences",
