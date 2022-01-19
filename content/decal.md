@@ -1,7 +1,7 @@
 ---
 title: "DeCal"
 htmlTitle: "BTF/<em>DeCal</em>"
-description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020). FA21 course website coming soon!"
+description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020)."
 link: https://docs.google.com/forms/d/e/1FAIpQLSd8xMqgWxJx5698guLA5PJqgfW6hM4V11ZjBTe4uYuw4nVjoA/viewform?usp=sf_link
 linkText: Spring 2022 Application »
 ---
