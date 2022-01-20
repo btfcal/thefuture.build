@@ -14,12 +14,4 @@ We aim to be the **golden standard** of entrepreneurship resource and learning.
 
 # Our Team
 
-.
-
-# Facilitators
-
 {{< about/team >}}
-
-# Advisors
-
-{{< about/advisors >}}
