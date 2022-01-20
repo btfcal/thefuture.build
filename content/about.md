@@ -12,10 +12,6 @@ Build The Future is a hub designed to **teach** and **inspire** students through
 
 We aim to be the **golden standard** of entrepreneurship resource and learning.
 
-## Our Advisors
-
-{{< about/advisors >}}
-
 # Our Team
 
 {{< about/team >}}
