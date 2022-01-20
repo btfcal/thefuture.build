@@ -1,4 +1,13 @@
 [
+      {
+      "name": "Vedika Dayal",
+      "class": "23",
+      "major": "Business Administration, Data Science",
+      "linkedin": "https://www.linkedin.com/in/vedika-dayal/",
+      "twitter": "https://twitter.com/vedikasworld",
+      "email": "vedikadayal@berkeley.edu",
+      "image": "/images/team/vedika.png"
+    },
     {
       "name": "Divyansh Saksena",
       "class": "22",
@@ -7,15 +16,6 @@
       "twitter": "https://twitter.com/divsksna",
       "email": "divsaksena@berkeley.edu",
       "image": "/images/team/div.jpg"
-    },
-    {
-      "name": "Vedika Dayal",
-      "class": "23",
-      "major": "Business Administration, Data Science",
-      "linkedin": "https://www.linkedin.com/in/vedika-dayal/",
-      "twitter": "https://twitter.com/vedikasworld",
-      "email": "vedikadayal@berkeley.edu",
-      "image": "/images/team/vedika.png"
     },
     {
       "name": "Ivan Borzenko",
