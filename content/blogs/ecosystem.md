@@ -13,10 +13,15 @@ Over the next couple of weeks, we’ll populate this guide with a deep dive into
 
 ## Blueprint
 
-[Blueprint](https://calblueprint.org) is a group that provides software pro-bono for nonprofits and promotes the use of tech for social good, working alongside organizations such as 1951 Coffee, the San Francisco Art Institute, and Veterans 360. Blueprint has been consistent in helping cultivate software talent for several years now and serves as a main outlet for students to use their technical know-how to make tangible impact. To help expand on their role on campus, we were joined by Nick Wong ‘22, a CS major and technical program lead at Blueprint!
+Blueprint is a group that provides software pro-bono for nonprofits and promotes the use of tech for social good, working alongside organizations such as 1951 Coffee, the San Francisco Art Institute, and Veterans 360. Blueprint has been consistent in helping cultivate software talent for several years now and serves as a main outlet for students to use their technical know-how to make tangible impact. To help expand on their role on campus, we were joined by Nick Wong ‘22, a CS major and technical program lead at Blueprint!
 
 **[Read more about Blueprint »](/guide/blueprint)**
 
+## Codebase
+
+This article is a deep dive into Codebase, a student org that aims to make the software industry more accessible by bridging the gap between classes and practical experience. Every semester, they build projects for non-profits and high growth tech companies, empowering students to work with real industry clients. They’ve partnered with a range of companies, from growing startups like Nuro and Ginger to clients as large as Atlassian, as well as local nonprofits like the Berkeley Food Pantry. 
+
+**[Read more about Codebase »](/guide/codebase)**
 ---
 
 As this guide gets fleshed out, if you or someone you know would provide a good view on the inside of entrepreneurial organizations on campus, please [reach out to us](mailto:btfdecal@gmail.com?subject=Re:+Berkeley+Ecosystem)!
