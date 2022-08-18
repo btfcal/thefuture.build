@@ -7,7 +7,7 @@ In this article, we’re learning more about [Cal Hacks](https://calhacks.io/), 
 
 We were joined by Arushi Somani ‘23, a CS major who has worked across many of Cal Hacks’ committees, from diversity to marketing, and previously ran the Cal Hacks Fellowship Program. In our conversation, we talked to Arushi about hacking culture at Berkeley, different ways to foster innovation on campus, the backend experience of running a huge hackathon, and how Cal Hacks impacted her life.
 
-### Cal Hacks at Berkeley
+## Cal Hacks at Berkeley
 
 - **What makes the Cal Hacks hackathon so special?**
     
@@ -49,7 +49,7 @@ We were joined by Arushi Somani ‘23, a CS major who has worked across many of 
     **Arushi:** I work in the intersection of programming languages and machine learning— creating programs that write programs. ****The current state of the art in the space is statistical models. I’m working on creating automated programmers that write code the way humans do — writing a function, testing it, using it in other parts of your code, repeat. The goal is to create something that helps people not worry about technical details but about the vision of what they want to build.
     
 
-### Arushi’s Journey Through Cal (Hacks)
+## Arushi’s Journey Through Cal (Hacks)
 
 - **Why did you join Cal Hacks?**
     
@@ -68,7 +68,7 @@ We were joined by Arushi Somani ‘23, a CS major who has worked across many of 
     **Arushi:** I honestly think that the biggest thing you get out of college is your people. And I'm very grateful to Cal Hacks for giving me “my people”. They are one of those rare groups of people where no idea is a joke. Anything can be full sent, and everything is a breeding ground for an exciting future that could be. Having this group of people around me makes me a better person.
     
 
-### Hacker Insights and Advice
+## Hacker Insights and Advice
 
 - **What’s one thing you wish your organization was doing right now in the Berkeley ecosystem?**
     
