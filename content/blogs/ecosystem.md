@@ -19,8 +19,14 @@ Blueprint is a group that provides software pro-bono for nonprofits and promotes
 
 ## Codebase
 
-This article is a deep dive into Codebase, a student org that aims to make the software industry more accessible by bridging the gap between classes and practical experience. Every semester, they build projects for non-profits and high growth tech companies, empowering students to work with real industry clients. They’ve partnered with a range of companies, from growing startups like Nuro and Ginger to clients as large as Atlassian, as well as local nonprofits like the Berkeley Food Pantry. 
+Codebase is a student org that aims to make the software industry more accessible by bridging the gap between classes and practical experience. Every semester, they build projects for non-profits and high growth tech companies, empowering students to work with real industry clients. They’ve partnered with a range of companies, from growing startups like Nuro and Ginger to clients as large as Atlassian, as well as local nonprofits like the Berkeley Food Pantry. 
 
 **[Read more about Codebase »](/guide/codebase)**
+
+## Cal Hacks
+
+Cal Hacks is a club that hosts the largest collegiate hackathon in the world. Cal Hacks also runs other events designed to promote hacking and entrepreneurship, like a fellowship for hackathon teams and a full-stack development course for new coders.
+
+**[Read more about Cal Hacks »](/guide/calhacks)**
 
 As this guide gets fleshed out, if you or someone you know would provide a good view on the inside of entrepreneurial organizations on campus, please [reach out to us](mailto:btfdecal@gmail.com?subject=Re:+Berkeley+Ecosystem)!
