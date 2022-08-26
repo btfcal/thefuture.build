@@ -55,14 +55,13 @@ Berkeley Innovation is a human-centered design consultancy. Some of their past c
 
 **[Learn more »](https://www.berkeleyinnovation.org)**
 
+---
 
 ## Courses & University Resources
 
-As one of the institutions at the frontier of the study and practice of entrepreneurship, Cal boasts a collection of courses, certificates, and programs to expand your toolkit as an entrepreneur. Here is a curated collection of the best of these resources.
+As one of the institutions at the frontier of the study and practice of entrepreneurship, Cal boasts a collection of courses, certificates, and programs to elevate your skills and expand your network as an entrepreneur. Here is a curated collection of the best of these resources.
 
-### Courses
-
-**Build the Future (UGBA 198)**
+### Build the Future (UGBA 198)
 
 Build The Future believes in using a collaboration-driven approach in teaching students about entrepreneurship. Our course is not just a speaker series nor lecturing. We have created an intimate environment for students to learn from other students supplemented by our student facilitators’ and guest speakers’ experiences. We have previously hosted prominent entrepreneurs and venture capitalists inclding Vinod Khosla (Khosla Ventures), Steve Wozniak (Apple), Patrick Collison (Stripe), and Dylan Field (Figma).
 
@@ -70,47 +69,44 @@ Over 13 weeks, the course covers 10 core topics that we believe to be essential 
 
 **[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfDPnTsfa_f1aBjqx4rxgmPYNXLFofNO56l8Z2V4Agsm3JcFg/viewform?usp=sf_link)**
 
-- SCET Challenge Labs
-- Industrial Design and Human Factors (IEOR 170)
-- Introduction to Product Development (Mec Eng 110)
+### Competitions
+
+- **[CalHacks](https://calhacks.io)** is the world's largest collegiate hackathon. It typically runs over a weekend and is open to students from any university. It also runs a Fellowship program for selected CalHacks teams to continue building their projects with mentorship, equity-free grants, and workshops from the brightest minds in entrepreneurship and engineering.
+- [Big Ideas @ Berkeley](https://bigideascontest.org)
+
+
+### Undergraduate Courses
+
+- Industrial Design and Human Factors (INDENG 170)
+- Introduction to Product Development (MECENG 110)
 - Innovation and Entrepreneurship: Social and Cultural Context (Sociology 121)
 - Principles of Engineering Economics (ENGIN 120)
 
-### University Programs
+### DeCals (Student-run Courses)
+
+- [Introduction to Full-stack Developement (CS 198)](https://fullstackdecal.com)
+- [Cubstart (CS 198)](https://cubstart.com)
+- [Human-Centered Design (DES INV 98)](https://www.berkeleyinnovation.org/hcd-decal)
+- [Introduction to Figma (DES INV 98)](https://www.notion.so/Introduction-to-Figma-Decal-1af70b8891634923bed87bdda4d64640)
+- [Blockchain Fundamentals (INDENG 198)](https://blockchain.berkeley.edu/courses/fundamentals-decal.html)
+- [Blockchain Development (INDENG 198)](https://blockchain.berkeley.edu/courses/developers-decal.html)
+
+### Fellowships
 
 - Accel Fellows
 - Fung Fellowship for Wellness and Tech
-- Certificate in Entrepreneurship and Technology
-- Berkeley Certificate in Design Innovation
-- Lester Center for Entrepreneurship
 
-## Accelerators
+---
 
-- SkyDeck
-- Free Ventures
-- Pear Accelerator
-- Blockchain Xcelerator
-- Catalyst@Berkeley
-- LAUNCH
-- CITRIS Foundry
-- Berkeley stEP
-
-## Funding
+## Funding & Accelerators 
 
 - The House Fund
 - Dorm Room Fund
 - Contrary Capital
-- Pear VC
-- Blockchain at Berkeley Grants
-- Berkeley Angel Network
-- Berkeley SkyDeck Fund
-- Berkeley-Haas Entrepreneurship Startup Seed Fund
-
-## Events
-
-- Cal Hacks
-- Big Ideas @ Berkeley
-- Pear Competition
-- Global Social Venture Competition
+- SkyDeck
+- Free Ventures
+- Pear Accelerator
+- Blockchain Xcelerator
+- LAUNCH
 
 As this guide gets fleshed out, if you or someone you know would provide a good view on the inside of entrepreneurial organizations on campus, please [reach out to us](mailto:btfdecal@gmail.com?subject=Re:+Berkeley+Ecosystem)!
