@@ -72,7 +72,7 @@ Over 13 weeks, the course covers 10 core topics that we believe to be essential 
 ### Competitions
 
 - **[CalHacks](https://calhacks.io)** is the world's largest collegiate hackathon. It typically runs over a weekend and is open to students from any university. It also runs a Fellowship program for selected CalHacks teams to continue building their projects with mentorship, equity-free grants, and workshops from the brightest minds in entrepreneurship and engineering.
-- [Big Ideas @ Berkeley](https://bigideascontest.org)
+- [Big Ideas @ Berkeley](https://bigideascontest.org) 
 
 
 ### Undergraduate Courses
@@ -93,20 +93,18 @@ Over 13 weeks, the course covers 10 core topics that we believe to be essential 
 
 ### Fellowships
 
-- Accel Fellows
-- Fung Fellowship for Wellness and Tech
+- [Accel Fellows](https://eecs.berkeley.edu/resources/undergrads/accel)
+- [Fung Fellowship for Wellness and Tech](https://fungfellows.berkeley.edu)
 
 ---
 
 ## Funding & Accelerators 
 
-- The House Fund
-- Dorm Room Fund
-- Contrary Capital
-- SkyDeck
-- Free Ventures
-- Pear Accelerator
-- Blockchain Xcelerator
-- LAUNCH
+- [The House Fund](https://thehouse.fund) is a pre-seed and early stage venture capital fund investing in the Berkeley community. They’ve mainly invested within the industries of Consumer, Enterprise and AI through the likes of Superhuman, Dyndrite, and Eko. One of their core offerings, AI@TheHouse, focuses on creating partnerships with the best AI researchers in the world to pair university-led research with the possibilities of starting up, creating an incredible foundation for AI-focused startups to succeed at Berkeley.
+- [Dorm Room Fund](https://www.dormroomfund.com/) is a VC firm focused specifically on investing in student-run startups. They are supported by First Round Capital and we like them because of their comparatively smaller check sizes (ave. 5-10 investments at $50k vs. 1-2 investments at $500k.
+- [Contrary Capital](https://contrary.com)
+- [SkyDeck](https://skydeck.berkeley.edu)
+- [Blockchain Xcelerator](https://xcelerator.berkeley.edu)
+- [LAUNCH](https://www.uclaunch.com)
 
 As this guide gets fleshed out, if you or someone you know would provide a good view on the inside of entrepreneurial organizations on campus, please [reach out to us](mailto:btfdecal@gmail.com?subject=Re:+Berkeley+Ecosystem)!
