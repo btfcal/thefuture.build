@@ -18,7 +18,7 @@ Our curriculum has been carefully crafted by Build The Future DeCal facilitators
 
 In a given week of the course, students come together for two sessions: one session with a guest speaker and introduction to that week’s core topic and a second session reflecting and discussing that week’s topic with a smaller group of students in the class.
 
-You can find our syllabus [here](/media/syllabus_f21.pdf).
+You can find our syllabus [here](https://docs.google.com/document/d/18MEmXKHjCckiGeoQJ6z8kP7c1xKeUE40sXmYIUea7w0/edit).
 
 # In The Press
 
