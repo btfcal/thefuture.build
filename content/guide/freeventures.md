@@ -47,7 +47,7 @@ Here we cover the Internal Team at Free Ventures, which is a small group of Cal 
 
   **Varun:** Outside of our general training program for new members, we really encourage everyone to contribute their ideas and take initiative in it. We have a special program that allows new members to launch their own summer projects that more often than not become part of the Free Ventures program. Many of which are going to be integral moving forward in the new academic year. 
 
-Beyond this, a lot of member development happens organically during the program as they develop relations with our start-ups, industry mentors, and a wide network of entrepreneurial people affiliated with Free Ventures. 
+ Beyond this, a lot of member development happens organically during the program as they develop relations with our start-ups, industry mentors, and a wide network of entrepreneurial people affiliated with Free Ventures. 
 
 ## The Berkeley Ecosystem
 
