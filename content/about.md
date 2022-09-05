@@ -10,7 +10,7 @@ Build The Future is a hub designed to **teach** and **inspire** students through
 
 # Vision
 
-We aim to be the **golden standard** of entrepreneurship resource and learning.
+We aim to be the **golden standard** of entrepreneurship resources and learning.
 
 # Our Team
 
