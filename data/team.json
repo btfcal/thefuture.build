@@ -9,22 +9,31 @@
       "image": "/images/team/vedika.png"
     },
     {
-      "name": "Divyansh Saksena",
-      "class": "22",
-      "major": "Economics, Operations Research and Management Sciences",
-      "linkedin": "https://www.linkedin.com/in/divsaksena/",
-      "twitter": "https://twitter.com/divsksna",
-      "email": "divsaksena@berkeley.edu",
-      "image": "/images/team/div.jpg"
+      "name": "Smera Patil",
+      "class": "24",
+      "major": "Data Science",
+      "linkedin": "https://www.linkedin.com/in/smerapatil/",
+      "twitter": "https://twitter.com/smera___",
+      "email": "smera@berkeley.edu",
+      "image": "/images/team/smera.jpg"
     },
     {
-      "name": "Ivan Borzenko",
-      "class": "22",
-      "major": "Business Administration, Data Science",
-      "linkedin": "https://www.linkedin.com/in/ivanborzenko/",
-      "twitter": "https://twitter.com/ivan_borzenko",
-      "email": "ivanborzenko@berkeley.edu",
-      "image": "/images/team/ivan.png"
+      "name": "Karen Tseng",
+      "class": "24",
+      "major": "Business Administration, Cognitive Science",
+      "linkedin": "https://www.linkedin.com/in/yun-jung-tseng/",
+      "twitter": "https://twitter.com/kar3ntseng",
+      "email": "yunjungtseng@berkeley.edu",
+      "image": "/images/team/karen.JPG"
+    }
+    {
+      "name": "Sauhard Jain",
+      "class": "25",
+      "major": "Computer Science, Economics",
+      "linkedin": "https://www.linkedin.com/in/sauhardjain/",
+      "twitter": "https://twitter.com/sauhard_jain",
+      "email": "sauhard@berkeley.edu",
+      "image": "/images/team/sauhard.jpeg"
     }
   ]
   
