@@ -31,17 +31,17 @@ Cal Hacks is a club that hosts the largest collegiate hackathon in the world. Ca
 
 **[Interview with Cal Hacks »](/guide/calhacks)**
 
+### Free Ventures
+
+Free Ventures is a student-run pre-seed startup accelerator. Each semester, they accept a small cohort of Cal student founders and help them grow to the next level by providing them access to funding, mentorship, and other resources. Their portfolio companies have secured over $90 million in follow-up funding from industry-leading investors like Kleiner Perkins, Greylock and YCombinator.
+
+**[Interview with Free Ventures »](/guide/freeventures)**
+
 ### Venture Strategy Solutions
 
 Venture Strategy Solutions (also called Venture) is a startup-focused consulting organization. Some of their past clients include Niantic, Snackpass, Figma, and Pipe. As the only consulting club focused on early-stage startups, they’ve sure been one of the leaders in cultivating founders as well as a spirit of innovation within Cal. 
 
 **[Learn more »](https://www.berkeleyvss.com)**
-
-### Free Ventures
-
-Free Ventures is a student-run pre-seed startup accelerator. Each semester, they accept a small cohort of Cal student founders and help them grow to the next level by providing them access to funding, mentorship, and other resources. Their portfolio companies have secured over $90 million in follow-up funding from industry-leading investors like Kleiner Perkins, Greylock and YCombinator.
-
-**[Learn more »](https://www.freeventures.org)**
 
 ### Blockchain at Berkeley
 
