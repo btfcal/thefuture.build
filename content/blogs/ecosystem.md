@@ -1,6 +1,6 @@
 ---
 title: "A Rolling Guide to the Berkeley Ecosystem"
-date: 2022-08-26T11:05:52-05:00
+date: 2022-09-05T17:00:00-05:00
 ---
 
 Odds are you’ve walked through Sproul and at any given time there were at least 8 different people trying to give you their organization’s spiel. Arms outstretched, they chorus: “Would you like to join ABC?” 
