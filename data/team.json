@@ -7,8 +7,8 @@
       "twitter": "https://twitter.com/vedikasworld",
       "email": "vedikadayal@berkeley.edu",
       "image": "/images/team/vedika.png"
-    },
-    {
+      },
+      {
       "name": "Smera Patil",
       "class": "24",
       "major": "Data Science",
@@ -16,8 +16,8 @@
       "twitter": "https://twitter.com/smera___",
       "email": "smera@berkeley.edu",
       "image": "/images/team/smera.jpg"
-    },
-    {
+      },
+      {
       "name": "Karen Tseng",
       "class": "24",
       "major": "Business Administration, Cognitive Science",
@@ -25,8 +25,8 @@
       "twitter": "https://twitter.com/kar3ntseng",
       "email": "yunjungtseng@berkeley.edu",
       "image": "/images/team/karen.JPG"
-    }
-    {
+      },
+      {
       "name": "Sauhard Jain",
       "class": "25",
       "major": "Computer Science, Economics",
@@ -34,6 +34,6 @@
       "twitter": "https://twitter.com/sauhard_jain",
       "email": "sauhard@berkeley.edu",
       "image": "/images/team/sauhard.jpeg"
-    }
-  ]
-  
+      }
+]
+ 
