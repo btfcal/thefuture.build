@@ -5,7 +5,7 @@ author: 'Sauhard Jain'
 
 Free Ventures is a student-run pre-seed startup accelerator. Each semester, they accept a small cohort of Cal student founders and help them grow to the next level by providing them access to funding, mentorship, and other resources. Their portfolio companies have secured over $90 million in follow-up funding from industry-leading investors like Kleiner Perkins, Greylock and YCombinator.
 
-This time, we were joined by Varun Nair ‘24, an EECS major and managing director of Free Venture. We asked him questions about his journey, what Free Ventures looks for in their batch companies, how Free Ventures differentiates itself from other accelerators, and his thoughts on the Berkeley ecosystem.
+This time, we were joined by Varun Nair ‘24, an EECS major and managing director of Free Ventures. We asked him questions about his journey, what Free Ventures looks for in their batch companies, how Free Ventures differentiates itself from other accelerators, and his thoughts on the Berkeley ecosystem.
 
 ## Free Ventures at Berkeley
 
@@ -29,7 +29,7 @@ This time, we were joined by Varun Nair ‘24, an EECS major and managing direct
   - Skillset for the relevant field/past experience in the industry
   - Founding team dynamics and story
 
-  These aren’t hard and fast rules that make or break a team’s selection but are important to consider when evaluating the founding team. I personally believe there are no certain traits that make you a better founder or that certain people are innately better founders. I**t really depends on the context, ideas, and execution that allow certain founders to differentiate their start-ups from others.**
+  These aren’t hard and fast rules that make or break a team’s selection but are important to consider when evaluating the founding team. I personally believe there are no certain traits that make you a better founder or that certain people are innately better founders. **It really depends on the context, ideas, and execution that allow certain founders to differentiate their start-ups from others.**
 
 ## Behind-the-Scenes
 
@@ -45,9 +45,7 @@ Here we cover the Internal Team at Free Ventures, which is a small group of Cal 
 
 - **How do you invest in the team members’ talents?**
 
-  **Varun:** Outside of our general training program for new members, we really encourage everyone to contribute their ideas and take initiative in it. We have a special program that allows new members to launch their own summer projects that more often than not become part of the Free Ventures program. Many of which are going to be integral moving forward in the new academic year. 
-  
-  Beyond this, a lot of member development happens organically during the program as they develop relations with our start-ups, industry mentors, and a wide network of entrepreneurial people affiliated with Free Ventures. 
+  **Varun:** Outside of our general training program for new members, we really encourage everyone to contribute their ideas and take initiative in it. We have a special program that allows new members to launch their own summer projects that more often than not become part of the Free Ventures program. Many of which are going to be integral moving forward in the new academic year. Beyond this, a lot of member development happens organically during the program as they develop relations with our start-ups, industry mentors, and a wide network of entrepreneurial people affiliated with Free Ventures. 
 
 ## The Berkeley Ecosystem
 
@@ -59,7 +57,7 @@ Here we cover the Internal Team at Free Ventures, which is a small group of Cal 
 
   **Varun:** We wish we were doing more to support entrepreneurial students and not just those that have already become founders. There is a great scope for improvement that can be achieved and Free Ventures will strive to fulfill that gap in the upcoming years. 
 
-  We plan on launching newer and more relevant initiatives, including our **Free Ventures Fellowship targeted toward supporting folks passionate about exploring VC or entrepreneurship but who do not have prior experience with it.** We are also planning on hosting **Berkeley’s first-ever start-up recruiting fair that is not exclusively affiliated with any particular accelerator.** This means it will have the best start-ups across the country coming to hire Berkeley talent!
+  We plan on launching newer and more relevant initiatives, including our **Free Ventures Fellowship** targeted toward supporting folks passionate about exploring VC or entrepreneurship but who do not have prior experience with it. We are also planning on hosting **Berkeley’s first-ever start-up recruiting fair that is not exclusively affiliated with any particular accelerator.** This means it will have the best start-ups across the country coming to hire Berkeley talent!
 
 - **Where do you think the future of the Berkeley ecosystem is headed?**
 
