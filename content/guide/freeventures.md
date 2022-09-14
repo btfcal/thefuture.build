@@ -3,7 +3,7 @@ title: 'Free Ventures'
 author: 'Sauhard Jain'
 ---
 
-Free Ventures is a student-run pre-seed startup accelerator. Each semester, they accept a small cohort of Cal student founders and help them grow to the next level by providing them access to funding, mentorship, and other resources. Their portfolio companies have secured over $90 million in follow-up funding from industry-leading investors like Kleiner Perkins, Greylock and YCombinator.
+Free Ventures is a student-run pre-seed startup accelerator. Each semester, they accept a small cohort of Cal student founders and help them grow to the next level by providing them access to funding, mentorship, and other resources. Their portfolio companies have secured over $140 million in follow-up funding from industry-leading investors like Kleiner Perkins, Greylock and YCombinator.
 
 This time, we were joined by Varun Nair ‘24, an EECS major and managing director of Free Ventures. We asked him questions about his journey, what Free Ventures looks for in their batch companies, how Free Ventures differentiates itself from other accelerators, and his thoughts on the Berkeley ecosystem.
 
