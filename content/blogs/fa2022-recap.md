@@ -75,6 +75,7 @@ Ev believes that these products rising in tandem are an indicator of the words â
 {{< /expand >}}
 
 ## Speakers Coming Up
+_Interested in seeing these speakers? Sign up to audit the class (here)[https://docs.google.com/forms/d/e/1FAIpQLSdtv3vpBlRbcC0RO6_3zo-us8gCLAZ81qH3CpDb_CWBt1Vzwg/viewform?usp=sf_link]._
 - **Eric Tarczynksi (founder, Contrary Capital)**
 - **Ivonna Dumanyam (co-founder, FathomAI)**
 - **Immad Akhund (co-founder, Mercury Bank & ex-partner at Y Combinator)**
