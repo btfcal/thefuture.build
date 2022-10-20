@@ -21,6 +21,7 @@ In 2009, Mark was able to build out his initial dream by founding Strava, an onl
 At every step of the process in building Strava, Mark was focused on serving his customer. Growth was a symptom of his customer-first approach.
 
 > It’s easy to get wrapped up in the big numbers. But when you’re starting out, you have to focus on maximizing value for your first users. Community will follow naturally after.
+
 {{< /expand >}}
 
 {{< expand "From Delian Asparouhov (principal, Founder’s Fund & founder, Varda Space)" >}}
@@ -44,6 +45,7 @@ While many founders see jobs as a distraction, Delian sees his part-time job wor
 Delian’s strength, both as a leader and speaker, lies in encouraging fearless ambition. 
 
 > Do what you’re best at and what’s easiest for you. Become the top .1% in that thing.
+
 {{< /expand >}}
 
 {{< expand "From Ev Williams (co-founder, Twitter, & Medium)" >}}
@@ -69,6 +71,7 @@ In building two recognizable media companies within the span of a decade, Ev lea
 Recently, we’ve seen the rise of platforms like TikTok and BeReal. TikTok’s “For You” page shifts the focus from individual creators to their content. You don’t need to know the influencer to love the videos they make. BeReal is the opposite, a platform that is made by the close friends you have on it, instead of the pixelated selfies you post. 
 
 Ev believes that these products rising in tandem are an indicator of the words “social” and “media” disconnecting from each other. The future is for people who learn the market and seize it.
+
 {{< /expand >}}
 
 ## Speakers Coming Up
