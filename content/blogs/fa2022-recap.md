@@ -48,7 +48,7 @@ Delian’s strength, both as a leader and speaker, lies in encouraging fearless 
 
 {{< /expand >}}
 
-{{< expand "From Ev Williams (co-founder, Twitter, & Medium)" >}}
+{{< expand "From Ev Williams (co-founder, Twitter & Medium)" >}}
 Ev Williams is no stranger to founding generational companies. At heart, he is a writer. All 3 of his companies—Blogger, Twitter, and Medium—have served to help the world communicate better through words. And he believes all good ideas share one key intersection. 
 
 > Find the overlap between a need in the world and an opportunity to do business.
