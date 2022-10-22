@@ -6,7 +6,7 @@ date: 2022-10-19
 Build the Future is privileged to host intimate conversations with incredible founders every week on campus. This semester, we brought in innovators with all kinds of backgrounds—from Thiel Fellows to unicorn builders to venture capitalists. They were building in niches spanning from agriculture to fitness to space. In the spirit of accessibility, here’s a collection of the learnings we took from the Fall 2022 semester. We will keep this updated as the semester continues.
 
 {{< expand "From Mark Gainey (co-founder, Strava)" >}}
-Mark first thought of an online community for runners when the Internet was first gaining traction back in the 90’s. His thesis has always been the same: fitness makes people better.
+Mark first thought of the idea of an online community for runners when the Internet was gaining traction back in the 90’s. His thesis has always been the same: fitness makes people better.
 
 But during the first dot-com boom, fitness centers weren’t equipped to sponsor full-fledged communities online. They were struggling with the infrastructure of the Internet and could barely keep up with all their emails. The world wasn’t ready for a Strava, so Mark co-founded Kana Communications, a company that helped businesses manage their email. Mark helped create a world where his vision for a digital fitness community could flourish. 
 
