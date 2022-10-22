@@ -40,7 +40,7 @@ banner = "/images/banner.png"
       weight = 6
       
   [[menu.main]]
-      name = "Community"
+      name = "Coworking"
       url = "/community/"
       weight = 7
 
