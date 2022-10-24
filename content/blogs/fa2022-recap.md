@@ -27,7 +27,7 @@ At every step of the process in building Strava, Mark was focused on serving his
 {{< expand "From Delian Asparouhov (principal, Founder’s Fund & founder, Varda Space)" >}}
 Many of us know Delian from his loud, amusing, and sometimes entirely left-field Twitter account. Meeting him IRL was like meeting a micro celebrity. Many of the students stuck around after class to get one-on-one time and selfies with him. 
 
-As a past Thiel Fellow, Delian was thrown into the startup world before he had finished his sophomore year of college. He dropped out of MIT to start Nightingale, an app that ultimately failed. Having this experience so young gave Delian insight into what it takes to start a successful company. He breaks it down into 2 steps:
+As a past Thiel Fellow, Delian was thrown into the startup world before he had finished his sophomore year of college. He dropped out of MIT to start Nightingale, an app that ultimately failed. Having this experience so young gave Delian insight into what it takes to start a successful company. He breaks the process down into 2 steps:
 
 1. **Vision:** Where do you want your company to go? How will it change the world?
 2. **Team:** Who are the people you need by your side to make your vision a reality?
