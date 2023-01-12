@@ -2,8 +2,8 @@
 title: "DeCal"
 htmlTitle: "BTF/<em>DeCal</em>"
 description: "UGBA 198, previously CS 198 (Spring 2017 – Fall 2020)."
-link: https://docs.google.com/forms/d/e/1FAIpQLSdtv3vpBlRbcC0RO6_3zo-us8gCLAZ81qH3CpDb_CWBt1Vzwg/viewform?usp=sf_link
-linkText: Fall 2022 Audit Form »
+link: https://docs.google.com/forms/d/e/1FAIpQLSccBbL3OsjrCRmnt-qZl99F96g5yvbE5Lm9ZRrUwJg-gv6tuw/viewform?usp=sf_link
+linkText: Spring 2023 DeCal Application »
 ---
 
 # Why take our DeCal?
