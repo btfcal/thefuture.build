@@ -48,4 +48,4 @@ yarn dev
 
 [Build The Future](https://thefuture.build) is UC Berkeley’s student-run entrepreneurship hub. Designed to teach and inspire students through a collaboration-driven environment to build startups, we aim to be the golden standard of entrepreneurship resource and learning.
 
-&copy; 2021 Build the Future
+&copy; 2023 Build the Future
