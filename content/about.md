@@ -15,3 +15,7 @@ We aim to be the **golden standard** of entrepreneurship resources and learning.
 # Our Team
 
 {{< about/team >}}
+
+# Alumni
+
+{{< about/alumni >}}

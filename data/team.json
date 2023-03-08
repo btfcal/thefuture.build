@@ -9,15 +9,6 @@
       "image": "/images/team/vedika.png"
       },
       {
-      "name": "Smera Patil",
-      "class": "24",
-      "major": "Cognitive Science, Bioengineering",
-      "linkedin": "https://www.linkedin.com/in/smerapatil/",
-      "twitter": "https://twitter.com/smera___",
-      "email": "smera@berkeley.edu",
-      "image": "/images/team/smera.jpg"
-      },
-      {
       "name": "Karen Tseng",
       "class": "24",
       "major": "Business Administration, Cognitive Science",
@@ -33,7 +24,7 @@
       "linkedin": "https://www.linkedin.com/in/sauhardjain/",
       "twitter": "https://twitter.com/sauhard_jain",
       "email": "sauhard@berkeley.edu",
-      "image": "/images/team/sauhard.jpeg"
+      "image": "/images/team/sauhard.jpg"
       }
 ]
  
