@@ -41,8 +41,5 @@ banner = "/images/banner.png"
       
   [[menu.main]]
       name = "Coworking"
-      url = "/community/"
+      url = "https://happy-lobster-238.notion.site/Patent-Pending-0349478eef8a40d4aedef068bd81bead"
       weight = 7
-
-
-
