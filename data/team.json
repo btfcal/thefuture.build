@@ -1,30 +1,38 @@
 [
-      {
-      "name": "Vedika Dayal",
-      "class": "23",
-      "major": "Business Administration, Data Science",
-      "linkedin": "https://www.linkedin.com/in/vedika-dayal/",
-      "twitter": "https://twitter.com/vedikasworld",
-      "email": "vedikadayal@berkeley.edu",
-      "image": "/images/team/vedika.png"
-      },
-      {
-      "name": "Karen Tseng",
-      "class": "24",
-      "major": "Business Administration, Cognitive Science",
-      "linkedin": "https://www.linkedin.com/in/yun-jung-tseng/",
-      "twitter": "https://twitter.com/kar3ntseng",
-      "email": "yunjungtseng@berkeley.edu",
-      "image": "/images/team/karen.JPG"
-      },
-      {
-      "name": "Sauhard Jain",
-      "class": "25",
-      "major": "Computer Science, Economics",
-      "linkedin": "https://www.linkedin.com/in/sauhardjain/",
-      "twitter": "https://twitter.com/sauhard_jain",
-      "email": "sauhard@berkeley.edu",
-      "image": "/images/team/sauhard.jpg"
-      }
+  {
+    "name": "Sauhard Jain",
+    "class": "25",
+    "major": "Computer Science, Economics",
+    "linkedin": "https://www.linkedin.com/in/sauhardjain/",
+    "twitter": "https://twitter.com/sauhard_jain",
+    "email": "sauhard@berkeley.edu",
+    "image": "/images/team/sauhard.jpg"
+  },
+  {
+    "name": "Natasha Arya",
+    "class": "25",
+    "major": "Computer Science",
+    "linkedin": "https://www.linkedin.com/in/natashaarya/",
+    "twitter": "https://twitter.com/natashaarya_",
+    "email": "natashaarya@berkeley.edu",
+    "image": "/images/team/natasha.jpeg"
+  },
+  {
+    "name": "Catherine Zhao",
+    "class": "23",
+    "major": "Computer Science, Business Administration",
+    "linkedin": "https://www.linkedin.com/in/zhao-catherine/",
+    "twitter": "https://twitter.com/catherineyzhao",
+    "email": "catherinezhao@berkeley.edu",
+    "image": "/images/team/cat.jpeg"
+  },
+  {
+    "name": "Kabir Goel",
+    "class": "24",
+    "major": "Computer Science, Public Policy",
+    "linkedin": "https://www.linkedin.com/in/kabirgoel/",
+    "twitter": "https://twitter.com/kabirgoel",
+    "email": "kabirgoel@berkeley.edu",
+    "image": "/images/team/kabir.jpeg"
+  }
 ]
- 
