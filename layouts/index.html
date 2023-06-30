@@ -1,71 +1,85 @@
 {{ define "og_image" }}
-<meta itemprop="image" content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px" />
-<meta property="og:image" content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px" />
-<meta name="twitter:image" content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px" />
-<meta name="twitter:image:src" content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px" />
-{{ end }}
-{{ define "main" }}
+<meta
+  itemprop="image"
+  content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px"
+/>
+<meta
+  property="og:image"
+  content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px"
+/>
+<meta
+  name="twitter:image"
+  content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px"
+/>
+<meta
+  name="twitter:image:src"
+  content="https://btf-og.vercel.app/Build the Future?theme=light&fontSize=150px"
+/>
+{{ end }} {{ define "main" }}
 <div class="home-page">
-    <section class="hero is-medium landing">
+  <section class="hero is-medium landing">
     <div class="hero-body" id="hero-body">
-            <div class="container">
-                <a href="https://happy-lobster-238.notion.site/Patent-Pending-0349478eef8a40d4aedef068bd81bead">
-                    <div class="pill"><span class="pill-text">Join our coworking community! »</span></div>
-                </a>
-                <div>
-                    <h2 class="title home-title">
-                        <em class="brand">Build the Future</em><br />
-                        is UC Berkeley’s student-run <em>entrepreneurship hub</em>.
-                    </h2>
-                    {{ partial "subscribe.html" . }}
-                </div>
-            </div>
+      <div class="container">
+        <a
+          href="https://happy-lobster-238.notion.site/Patent-Pending-0349478eef8a40d4aedef068bd81bead"
+        >
+          <div class="pill">
+            <span class="pill-text">Join our coworking community! »</span>
+          </div>
+        </a>
+        <div>
+          <h2 class="title home-title">
+            <em class="brand">Build the Future</em><br />
+            is UC Berkeley’s student-run <em>entrepreneurship hub</em>.
+          </h2>
+          {{ partial "subscribe.html" }}
         </div>
-    </section>
-    <section class="section" id="hero-body">
-        <div class="container">
-            <h2 class="title">Featured Speakers</h2>
-            <div class="speakers columns is-multiline">
-                {{ range .Site.Data.speakers }}
-                <div class="speaker column is-one-quarter is-flex">
-                    <div>
-                        <img class="headshot" src="{{ .image }}">
-                        <p><strong>{{ .name }}</strong>, {{ .company }}</p>
-                    </div>
-                </div>
-                {{ end }}
-            </div>
+      </div>
+    </div>
+  </section>
+  <section class="section" id="hero-body">
+    <div class="container">
+      <h2 class="title">Featured Speakers</h2>
+      <div class="speakers columns is-multiline">
+        {{ range .Site.Data.speakers }}
+        <div class="speaker column is-one-quarter is-flex">
+          <div>
+            <img class="headshot" src="{{ .image }}" />
+            <p><strong>{{ .name }}</strong>, {{ .company }}</p>
+          </div>
         </div>
-    </section>
+        {{ end }}
+      </div>
+    </div>
+  </section>
 </div>
 <script>
-    // ballz
-    const timer = ms => new Promise(res => setTimeout(res, ms))
+  // ballz
+  const timer = (ms) => new Promise((res) => setTimeout(res, ms))
 
-    async function loadBalls() {
+  async function loadBalls() {
+    let size = Math.floor(Math.random() * 300) + 100
+    let xPercent = Math.floor(Math.random() * 20)
+    let yPercent = Math.floor(Math.random() * 100)
 
-        let size = Math.floor(Math.random() * 300) + 100;
-        let xPercent = Math.floor(Math.random() * 20);
-        let yPercent = Math.floor(Math.random() * 100);
+    for (var i = 0; i < 3; i++) {
+      const sphere = document.createElement('div')
+      sphere.setAttribute('class', 'sphere-container')
+      sphere.innerHTML = `<img class="sphere" id="sphere-${i}" src="/vectors/sphere.svg" style="width: ${size}px; left: ${xPercent}%; top: ${yPercent}%;" />`
 
-        for (var i = 0; i < 3; i++) {
-            const sphere = document.createElement("div");
-            sphere.setAttribute("class", "sphere-container");
-            sphere.innerHTML = `<img class="sphere" id="sphere-${i}" src="/vectors/sphere.svg" style="width: ${size}px; left: ${xPercent}%; top: ${yPercent}%;" />`
+      document.getElementById('hero-body').appendChild(sphere)
+      setTimeout(() => {
+        sphere.classList.add('active')
+      }, 400)
 
-            document.getElementById("hero-body").appendChild(sphere);
-            setTimeout(() => {
-                sphere.classList.add("active");
-            }, 400);
+      xPercent += ((2 * size) / window.innerWidth) * 100
+      yPercent = Math.floor(Math.random() * 100)
+      size = Math.floor(Math.random() * 300) + 100
 
-            xPercent += 2 * size / window.innerWidth * 100;
-            yPercent = Math.floor(Math.random() * 100);
-            size = Math.floor(Math.random() * 300) + 100;
-
-            await timer(Math.floor(Math.random() * 400));
-        }
+      await timer(Math.floor(Math.random() * 400))
     }
+  }
 
-    loadBalls();
+  loadBalls()
 </script>
 {{end}}
