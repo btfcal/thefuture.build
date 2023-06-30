@@ -2,41 +2,41 @@
   {
     "name": "Patrick Collison",
     "company": "Stripe",
-    "image": "/images/speakers/collison.png"
+    "image": "/images/speakers/collison.jpeg"
   },
   {
     "name": "Dylan Field",
     "company": "Figma",
-    "image": "/images/speakers/dylan.png"
+    "image": "/images/speakers/dylan.jpeg"
   },
   {
     "name": "Sarah Guo",
     "company": "Conviction",
-    "image": "/images/speakers/sarah.png"
+    "image": "/images/speakers/sarah.webp"
   },
   {
     "name": "Steve Wozniak",
     "company": "Apple",
-    "image": "/images/speakers/woz.png"
+    "image": "/images/speakers/woz.jpeg"
   },
   {
     "name": "Ev Williams",
     "company": "Twitter",
-    "image": "/images/speakers/ev.png"
+    "image": "/images/speakers/ev.jpeg"
   },
   {
     "name": "Kim Malek",
     "company": "Salt & Straw",
-    "image": "/images/speakers/kim.png"
+    "image": "/images/speakers/kim.webp"
   },
   {
     "name": "Amjad Masad",
     "company": "Replit",
-    "image": "/images/speakers/amjad.png"
+    "image": "/images/speakers/amjad.jpeg"
   },
   {
     "name": "Michael Seibel",
     "company": "YCombinator",
-    "image": "/images/speakers/seibel.png"
+    "image": "/images/speakers/seibel.jpeg"
   }
 ]
