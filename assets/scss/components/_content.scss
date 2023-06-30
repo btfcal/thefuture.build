@@ -44,14 +44,15 @@ div.content {
   a {
     text-decoration: underline;
     text-decoration-style: dotted;
-    text-decoration-color: $blue;
-    text-decoration-thickness: .125em;
-    text-underline-offset: 1.2px;
+    text-decoration-color: #0004;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
     text-decoration-skip: edges leading-spaces trailing-spaces;
+    transition: all 0.2s ease-in-out;
 
     &:hover {
       color: $blue;
-      text-decoration-style: solid;
+      text-decoration-color: $blue;
     }
 
     &:visited {
