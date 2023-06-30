@@ -35,10 +35,10 @@ banner = "/images/banner.png"
       weight = 5
 
   [[menu.main]]
-      name = "Blogs"
-      url = "/blogs/"
+      name = "Blog"
+      url = "/blog/"
       weight = 6
-      
+
   [[menu.main]]
       name = "Coworking"
       url = "https://happy-lobster-238.notion.site/Patent-Pending-0349478eef8a40d4aedef068bd81bead"

@@ -1,2 +1,3 @@
-/newsletters/*         /blogs/:splat        302
+/newsletters/*         /blog/:splat        301
+/blogs/:splat          /blog/:splat        301
 /apply                 https://docs.google.com/forms/d/e/1FAIpQLScYiHlPb8DXNUMcGofQWXQSXDxUZtDS6sf6Ex--iImY8iLw2w/viewform  302
