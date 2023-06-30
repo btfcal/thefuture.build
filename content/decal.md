@@ -1,7 +1,7 @@
 ---
 title: 'DeCal'
-htmlTitle: 'BTF/<em>DeCal</em>'
-description: '1 founder. 30 students. Every week.'
+htmlTitle: '<em>DeCal</em>'
+description: '1 entrepreneur. 30 students. Every week.'
 link: https://docs.google.com/forms/d/e/1FAIpQLSccBbL3OsjrCRmnt-qZl99F96g5yvbE5Lm9ZRrUwJg-gv6tuw/viewform?usp=sf_link
 linkText: Spring 2023 DeCal Application »
 ---
@@ -14,7 +14,7 @@ linkText: Spring 2023 DeCal Application »
 
 # Past Speakers
 
-| Speaker Name        | Company                         | Semester    |
+| Name                | Company                         | Semester    |
 | ------------------- | ------------------------------- | ----------- |
 | Qasar Younis        | Applied Intuition               | Spring 2023 |
 | Jonathan Hsu        | Tribe Capital                   | Spring 2023 |

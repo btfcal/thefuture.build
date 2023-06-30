@@ -1,7 +1,7 @@
 ---
-title: "About"
-htmlTitle: "BTF/<em>About</em>"
-description: "We are UC Berkeley’s student-run entrepreneurship hub."
+title: 'About'
+htmlTitle: '<em>About</em>'
+description: 'We are UC Berkeley’s student-run entrepreneurship hub.'
 ---
 
 # Mission
